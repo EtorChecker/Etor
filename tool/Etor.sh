@@ -1,0 +1,1 @@
+java -cp PROJECTLOCATION/Etor.jar:PROJECTLOCATION/lib/* Etor $1 $2 $3 $4 $5
