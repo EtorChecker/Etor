@@ -43,6 +43,6 @@ The replication package is structured as follows:
 
 # Ontology-based approach for issue detection.
 
-<img src="https://github.com/EtorChecker/Etor/blob/main/OntologyNew.PNG" width="100" height="100">
+<img src="https://github.com/EtorChecker/Etor/blob/main/OntologyNew.PNG" width="500" height="500">
 
 [This is an external link to download Etor.jar](https://www.dropbox.com/s/ul5b6k8sdqxlpcd/Etor.jar?dl=0)
