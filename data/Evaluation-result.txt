@@ -1,0 +1,563 @@
+Types	,	Repo	
+No license provided in public repository	,	https://github.com/namndwebdev/tang-crush	
+No license provided in public repository	,	https://github.com/carameleon/frontier-chain-testnets	
+No license provided in public repository	,	https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code	
+No license provided in public repository	,	https://github.com/learn-co-curriculum/phase-0-html-issue-bot-9000-lab	
+No license provided in public repository	,	https://github.com/kanbertasli/gaih-students-repo-example	
+No license provided in public repository	,	https://github.com/MercurySolar/testnets-2	
+No license provided in public repository	,	https://github.com/bradtraversy/react-crash-2021	
+No license provided in public repository	,	https://github.com/OmniFlix/testnets	
+No license provided in public repository	,	https://github.com/DaoChen6/Heroku-v2ray	
+No license provided in public repository	,	https://github.com/rafaballerini/GitTutorial	
+No license provided in public repository	,	https://github.com/alihamed83/freevps	
+No license provided in public repository	,	https://github.com/codefresh-contrib/gitops-certification-examples	
+No license provided in public repository	,	https://github.com/sirodeneko/genshin-sign	
+No license provided in public repository	,	https://github.com/thanhnamvip1/Namkhoaito	
+No license provided in public repository	,	https://github.com/tangtangcoding/C-C-	
+No license provided in public repository	,	https://github.com/y35uishere/apache-log4j-poc	
+No license provided in public repository	,	https://github.com/learn-co-curriculum/phase-1-practice-interacting-with-the-dom	
+No license provided in public repository	,	https://github.com/KubeDev/rotten-potatoes	
+No license provided in public repository	,	https://github.com/bloominstituteoftechnology/web-module-project-reducer	
+No license provided in public repository	,	https://github.com/bloominstituteoftechnology/web-module-project-custom-hook	
+No license provided in public repository	,	https://github.com/bloominstituteoftechnology/web-module-project-class-components	
+No license provided in public repository	,	https://github.com/bloominstituteoftechnology/web-module-project-lifecycle	
+No license provided in public repository	,	https://github.com/bloominstituteoftechnology/web-module-project-redux	
+No license provided in public repository	,	https://github.com/renebrandel/amplify-homes	
+No license provided in public repository	,	https://github.com/HackerUSA-CE/FSI-Placement-Assessment-Starter	
+No license provided in public repository	,	https://github.com/ironhack-labs/lab-movies-celebrities	
+No license provided in public repository	,	https://github.com/dicodingacademy/Aplikasi-Login	
+No license provided in public repository	,	https://github.com/solana-labs/ecosystem	
+No license provided in public repository	,	https://github.com/learn-co-curriculum/phase-3-mock-code-challenge-freebie-tracker	
+No license provided in public repository	,	https://github.com/bullhe4d/bigwatermelon	
+No license provided in public repository	,	https://github.com/TechBowl-japan/html-stations	
+No license provided in public repository	,	https://github.com/PlummersSoftwareLLC/Primes	
+No license provided in public repository	,	https://github.com/deepakuniyaliit/FSWD_Practicals	
+No license provided in public repository	,	https://github.com/next-step/java-racingcar-precourse	
+No license provided in public repository	,	https://github.com/soyHenry/wks-typescript	
+No license provided in public repository	,	https://github.com/adrianhajdin/project_web3.0	
+No license provided in public repository	,	https://github.com/manisha069/HacktoberFest21	
+No license provided in public repository	,	https://github.com/ttttdeded/aternos-afkbot	
+No license provided in public repository	,	https://github.com/GeeksforGeeks-VIT-Bhopal/GeekWeek-Local	
+No license provided in public repository	,	https://github.com/0voice/linux_kernel_wiki	
+No license provided in public repository	,	https://github.com/Kentacok03/rdpfree	
+No license provided in public repository	,	https://github.com/soyHenry/Prep	
+No license provided in public repository	,	https://github.com/goosedefi/goose-frontend-farms	
+No license provided in public repository	,	https://github.com/goosedefi/goose-uikit	
+No license provided in public repository	,	https://github.com/hhroot/2021_Hvv	
+No license provided in public repository	,	https://github.com/learn-co-curriculum/phase-3-building-sinatra-applications	
+No license provided in public repository	,	https://github.com/training-support/FST-M1	
+No license provided in public repository	,	https://github.com/catvod/CatVodTVSpider	
+No license provided in public repository	,	https://github.com/ibraheemdev/modern-unix	
+No license provided in public repository	,	https://github.com/designcourse/threejs-webpack-starter	
+No license provided in public repository	,	https://github.com/mumuchenchen/pikpak	
+No license provided in public repository	,	https://github.com/vedant1771/Hactoberfest2021	
+No license provided in public repository	,	https://github.com/wangyuan389/mall-cook	
+No license provided in public repository	,	https://github.com/vimallinuxworld13/git-workshop	
+No license provided in public repository	,	https://github.com/SmartKeyerror/Psyduck	
+No license provided in public repository	,	https://github.com/learn-co-curriculum/phase-1-mock-cc-ramen-rater	
+No license provided in public repository	,	https://github.com/nus-cs2103-AY2122S1/ip	
+No license provided in public repository	,	https://github.com/djhdj1/AutoApiP	
+No license provided in public repository	,	https://github.com/paimooon/Daily-Reward	
+No license provided in public repository	,	https://github.com/MFarelS/Zhirrr-Api	
+No license provided in public repository	,	https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series	
+No license provided in public repository	,	https://github.com/cncamp/101	
+No license provided in public repository	,	https://github.com/incubyteco/string-calculator-starter	
+No license provided in public repository	,	https://github.com/PraktikumJava/m1-t12-code-style	
+No license provided in public repository	,	https://github.com/Omar07Ibarhim/RDP1	
+No license provided in public repository	,	https://github.com/titaniumnetwork-dev/Incognito-old	
+No license provided in public repository	,	https://github.com/Klerith/react-adv	
+No license provided in public repository	,	https://github.com/cdle/sillyGirl	
+No license provided in public repository	,	https://github.com/nicknochnack/TFODCourse	
+No license provided in public repository	,	https://github.com/SAFOOOO/rdpfree	
+No license provided in public repository	,	https://github.com/techwithtim/Flask-Web-App-Tutorial	
+No license provided in public repository	,	https://github.com/2-young-2-simple/VirtualApp	
+No license provided in public repository	,	https://github.com/abuanwar072/Chat-Messaging-App-Light-and-Dark-Theme	
+No license provided in public repository	,	https://github.com/HackerUSA-CE/FSI-Implement-Coin-Flipper	
+No license provided in public repository	,	https://github.com/AliyunWorkbench/docusaurus	
+No license provided in public repository	,	https://github.com/learn-co-curriculum/phase-3-sinatra-with-active-record-get	
+No license provided in public repository	,	https://github.com/golclinics/micropilot-entry-challenge	
+No license provided in public repository	,	https://github.com/deepakuniyaliit/webPractice	
+No license provided in public repository	,	https://github.com/codigofacilito/vacaciones-cody	
+No license provided in public repository	,	https://github.com/codeedu/imersao-fsfc2	
+No license provided in public repository	,	https://github.com/DeekshithSN/CICD_Java_gradle_application	
+No license provided in public repository	,	https://github.com/MoralisWeb3/youtube-tutorials	
+No license provided in public repository	,	https://github.com/ServiceNow/devtraining-createnotes-rome	
+No license provided in public repository	,	https://github.com/Chia-Network/chia-docker	
+No license provided in public repository	,	https://github.com/Coder-forfun/Hactoberfest-accepted	
+No license provided in public repository	,	https://github.com/next-step/java-baseball-playground	
+No license provided in public repository	,	https://github.com/ironhack-labs/unit-testing-guided-example	
+No license provided in public repository	,	https://github.com/adrianhajdin/chat_application	
+No license provided in public repository	,	https://github.com/DarkSnakeGang/GoogleSnakeCustomMenuStuff	
+No license provided in public repository	,	https://github.com/q1161347/JDDJ	
+No license provided in public repository	,	https://github.com/ironhack-labs/lab-react-tweets	
+No license provided in public repository	,	https://github.com/shikaruki/Hactoberfest2021	
+No license provided in public repository	,	https://github.com/crazyuyun/JDJB-1	
+No license provided in public repository	,	https://github.com/gyydgj/nvjdcdocker-1	
+No license provided in public repository	,	https://github.com/ihebski/DefaultCreds-cheat-sheet	
+No license provided in public repository	,	https://github.com/0voice/learning_mind_map	
+No license provided in public repository	,	https://github.com/stacksimplify/terraform-on-azure-cloud	
+No license provided in public repository	,	https://github.com/netology-ds-team/sal-rab-homeworks	
+No license provided in public repository	,	https://github.com/adarsh-dayanand/Accenture-learning-modules	
+No license provided in public repository	,	https://github.com/he1pu/JDHelp	
+No license provided in public repository	,	https://github.com/hctnm2/Open-Source-Enthusiast	
+No license provided in public repository	,	https://github.com/Codecademy/wedding-rsvp-off-platform-project	
+No license provided in public repository	,	https://github.com/jssam/Hactoberfest2021_projects	
+No license provided in public repository	,	https://github.com/learn-co-curriculum/phase-4-serializing-associations	
+No license provided in public repository	,	https://github.com/kartikey54/VaccineAvailabilityNotifier	
+No license provided in public repository	,	https://github.com/sysnxw/jd-base	
+No license provided in public repository	,	https://github.com/adrianhajdin/portfolio_website	
+No license provided in public repository	,	https://github.com/avinashmamidi/maven-project-2	
+No license provided in public repository	,	https://github.com/appotry/sync-1	
+No license provided in public repository	,	https://github.com/alura-cursos/imersao-dados-desafio-final	
+No license provided in public repository	,	https://github.com/ISIS1225DEVS/ISIS1225-SampleMVC	
+No license provided in public repository	,	https://github.com/olist213/Information_Security_Books	
+No license provided in public repository	,	https://github.com/abuanwar072/Flutter-responsive-email-ui---Mobile-Tablet-and-Web	
+No license provided in public repository	,	https://github.com/Sniper7sumit/Hacktoberfest2021	
+No license provided in public repository	,	https://github.com/goosedefi/goose-contracts	
+No license provided in public repository	,	https://github.com/LandmakTechnology/paypal-web-app	
+No license provided in public repository	,	https://github.com/fireship-io/threejs-scroll-animation-demo	
+No license provided in public repository	,	https://github.com/LaravelDaily/Test-Laravel-Routes	
+No license provided in public repository	,	https://github.com/Phil2048/scripts-1	
+No license provided in public repository	,	https://github.com/Slurmio/school-dev-k8s	
+No license provided in public repository	,	https://github.com/kunal-kushwaha/DevOps-Bootcamp	
+No license provided in public repository	,	https://github.com/bca6gehusample/Informationsecurity	
+No license provided in public repository	,	https://github.com/ByCodersTec/desafio-dev	
+No license provided in public repository	,	https://github.com/zapaiamarce/forks-y-prs	
+No license provided in public repository	,	https://github.com/Miraclelucy/dive_into_deep_learning	
+No license provided in public repository	,	https://github.com/mate-academy/jv-fruit-shop-tests	
+No license provided in public repository	,	https://github.com/anupam-kumar-krishnan/Competitive_Programming	
+No license provided in public repository	,	https://github.com/PrimeAcademy/prime-pw-week-3-assignment-part-3	
+No license provided in public repository	,	https://github.com/ramonbhb/PullHere	
+No license provided in public repository	,	https://github.com/ziginsider/rsschool2021-Android-task-randomizer	
+No license provided in public repository	,	https://github.com/orico/www.mlcompendium.com	
+No license provided in public repository	,	https://github.com/PrimeAcademy/prime-pw-week-5-assignment-part-3	
+No license provided in public repository	,	https://github.com/mate-academy/jv-logger	
+No license provided in public repository	,	https://github.com/ISIS1225DEVS/ISIS1225-SampleList	
+No license provided in public repository	,	https://github.com/stebsnusch/basecamp-javascript	
+No license provided in public repository	,	https://github.com/wangle1218/KBQA-for-Diagnosis	
+No license provided in public repository	,	https://github.com/CSE110-SP21/Lab9	
+No license provided in public repository	,	https://github.com/PrimeAcademy/prime-pw-week-4-assignment-part-1	
+No license provided in public repository	,	https://github.com/PrimeAcademy/prime-pw-week-5-assignment-part-1	
+No license provided in public repository	,	https://github.com/Vinayak-VG/SummerSchool-Assignment	
+No license provided in public repository	,	https://github.com/ISIS1225DEVS/ISIS1225-SampleSorts	
+No license provided in public repository	,	https://github.com/mate-academy/jv-dependency-injection	
+No license provided in public repository	,	https://github.com/AdaGold/swap-meet	
+No license provided in public repository	,	https://github.com/Thinkful-Ed/starter-thinkfulbnb	
+No license provided in public repository	,	https://github.com/Deskera/interview-june-2021	
+No license provided in public repository	,	https://github.com/zapaiamarce/mvc-orientado-a-objetos-desafio	
+No license provided in public repository	,	https://github.com/Technigo/project-guess-who	
+No license provided in public repository	,	https://github.com/COPS-IITBHU/csoc-2021-namecards	
+No license provided in public repository	,	https://github.com/zapaiamarce/dwf-m2-desafio	
+No license provided in public repository	,	https://github.com/leecheng310/longzhuzhu	
+No license provided in public repository	,	https://github.com/breatheco-de/exercise-unit-test-with-jest	
+No license provided in public repository	,	https://github.com/linuxacademy/content-github-actions-deep-dive-lesson	
+No license provided in public repository	,	https://github.com/mate-academy/jv-jdbc	
+No license provided in public repository	,	https://github.com/kavyanshpandey/Sneha-cafe-FRONT-END	
+No license provided in public repository	,	https://github.com/traderjoe-xyz/joe-tokenlists	
+No license provided in public repository	,	https://github.com/Abbie-n/Flutter_1point0	
+No license provided in public repository	,	https://github.com/harshakshit/cybersecurity-bootcamp-shapeai	
+No license provided in public repository	,	https://github.com/Robin970822/WorkingTime	
+No license provided in public repository	,	https://github.com/PrimeAcademy/prime-pw-week-4-assignment-part-3	
+No license provided in public repository	,	https://github.com/etjabajasphin/FindMaximum	
+No license provided in public repository	,	https://github.com/Technigo/project-chatbot	
+No license provided in public repository	,	https://github.com/fsteamID/RDP-Google-Debian	
+No license provided in public repository	,	https://github.com/wego-example/podinfo-deploy	
+No license provided in public repository	,	https://github.com/dicodingacademy/karsajobs	
+No license provided in public repository	,	https://github.com/ReFil/zmk-config	
+No license provided in public repository	,	https://github.com/CSE110-SP21/Lab6	
+No license provided in public repository	,	https://github.com/adrianhajdin/project_cryptoverse	
+No license provided in public repository	,	https://github.com/dicodingacademy/karsajobs-ui	
+No license provided in public repository	,	https://github.com/avani112/HacktoberFest2021-1	
+No license provided in public repository	,	https://github.com/Thinkful-Ed/starter-joey-thinkful	
+No license provided in public repository	,	https://github.com/ISIS1225DEVS/Reto1-Template	
+No license provided in public repository	,	https://github.com/ntrdnm1/gettovds	
+No license provided in public repository	,	https://github.com/lucasmvnascimento/exercise-redux-thunk	
+No license provided in public repository	,	https://github.com/breatheco-de/exercise-starwars-data-modeling	
+No license provided in public repository	,	https://github.com/rohithsprabhu/hacktoberfest2021	
+No license provided in public repository	,	https://github.com/Thinkful-Ed/starter-mobile-first-development	
+No license provided in public repository	,	https://github.com/PraktikumJava/m1-t12-hotkeys	
+No license provided in public repository	,	https://github.com/FullStack-HY/patientor	
+No license provided in public repository	,	https://github.com/HarshalKudale/EasySideload-WSA	
+No license provided in public repository	,	https://github.com/rolling-scopes-school/rs.ios.stage-task1	
+No license provided in public repository	,	https://github.com/shubhamwhj/Demo-racing	
+No license provided in public repository	,	https://github.com/scccy/jd_scripts	
+No license provided in public repository	,	https://github.com/HackerUSA-CE/FSI-Shopping-Cart-Mock-Assessment-Starter	
+No license provided in public repository	,	https://github.com/training-support/FST-M2	
+No license provided in public repository	,	https://github.com/miladphoenix/NewSirMeti	
+No license provided in public repository	,	https://github.com/kavyanshpandey/hacktoberfest-2021	
+No license provided in public repository	,	https://github.com/learn-co-curriculum/phase-3-object-relations-practice-code-challenge-magazines-many-many	
+No license provided in public repository	,	https://github.com/devpavan04/cryptoboys-nft-marketplace	
+No license provided in public repository	,	https://github.com/Mahesh1256/End-Sem-Advanced-Java-Programming-Practical-	
+No license provided in public repository	,	https://github.com/AnushkaSamarasinghe/HacktoberFest2021-html-For-SriLankan-tech-geekers	
+No license provided in public repository	,	https://github.com/MohmedIkram/Hacktoberfest2021	
+No license provided in public repository	,	https://github.com/PrimeAcademy/prime-pw-week-2-assignment-part-1	
+No license provided in public repository	,	https://github.com/PrimeAcademy/prime-pw-week-2-assignment-part-2	
+No license provided in public repository	,	https://github.com/tailwindlabs/tailwindcss-from-zero-to-production	
+No license provided in public repository	,	https://github.com/sushantchamoli/MOBILE-APPLICATION-DEVELOPMENT	
+No license provided in public repository	,	https://github.com/Anonymous-ghost/AttackWebFrameworkTools-5.0	
+No license provided in public repository	,	https://github.com/mrpkdeveloper/450-DSA-Questions	
+No license provided in public repository	,	https://github.com/limaceous-bushwhacker/zspotify	
+No license provided in public repository	,	https://github.com/Bungeetech/internship-test2	
+No license provided in public repository	,	https://github.com/mayankchaudhary26/HacktoberFest-Practice-2021	
+No license provided in public repository	,	https://github.com/pepesir/PEPE-SIR	
+No license provided in public repository	,	https://github.com/PacktPublishing/Transformers-for-Natural-Language-Processing	
+No license provided in public repository	,	https://github.com/AkshayNachappa/Hacktoberfest_2021	
+No license provided in public repository	,	https://github.com/pds2-dcc-ufmg/2021-2-exercicio-revisao-refatoracao	
+No license provided in public repository	,	https://github.com/turingschool-examples/adopt_dont_shop	
+No license provided in public repository	,	https://github.com/Mohamefrtrt/hero-vps-lifetime	
+No license provided in public repository	,	https://github.com/mate-academy/hibernate-user-service-hw	
+No license provided in public repository	,	https://github.com/hctnm1/Learn-To-Use-Github	
+No license provided in public repository	,	https://github.com/ISIS1225DEVS/Reto3-Template	
+No license provided in public repository	,	https://github.com/MrAnonymous09/Hactoberfest-Beginner	
+No license provided in public repository	,	https://github.com/TdP-2021/GestoreCorsi	
+No license provided in public repository	,	https://github.com/woowacourse/java-vendingmachine-precourse	
+No license provided in public repository	,	https://github.com/simaraconceicao/javascript-ii-gama-xp	
+No license provided in public repository	,	https://github.com/mate-academy/hibernate-shopping-cart-hw	
+No license provided in public repository	,	https://github.com/mate-academy/hibernate-order-hw	
+No license provided in public repository	,	https://github.com/ISIS1225DEVS/Reto4-Template	
+No license provided in public repository	,	https://github.com/g2i/test-playground	
+No license provided in public repository	,	https://github.com/Nice-Keyboards/nice60-zmk-config	
+No license provided in public repository	,	https://github.com/Sathishzus/solidmusic_rewrite	
+No license provided in public repository	,	https://github.com/mate-academy/jv-spring-rest	
+No license provided in public repository	,	https://github.com/AngeLouCN/CFPNet	
+No license provided in public repository	,	https://github.com/rutura/The-C-20-Masterclass-Source-Code	
+No license provided in public repository	,	https://github.com/InnogeeksOrganization/coderspree	
+No license provided in public repository	,	https://github.com/HackerUSA-CE/JS-Web-Game-Part-1	
+No license provided in public repository	,	https://github.com/SamirGithubaccount/MockPracticalExam	
+No license provided in public repository	,	https://github.com/pds2-dcc-ufmg/2021-1-exercicio-revisao-refatoracao	
+No license provided in public repository	,	https://github.com/siamaksade/openshift-gitops-getting-started	
+No license provided in public repository	,	https://github.com/timerz23/Ngrok-rdp	
+No license provided in public repository	,	https://github.com/mate-academy/jv-spring-rest-web-practice	
+No license provided in public repository	,	https://github.com/pardeep-busibud/Pagination-SearchLibrary	
+No license provided in public repository	,	https://github.com/sksjed/free_rdp	
+No license provided in public repository	,	https://github.com/HackerUSA-CE/JS-Building-an-Interactive-Map	
+No license provided in public repository	,	https://github.com/devclub-iitd/GitAssignment2021	
+No license provided in public repository	,	https://github.com/WhitePrime/WindowsVPS2021	
+No license provided in public repository	,	https://github.com/AnjaliAPT/Hactoberfest2021	
+No license provided in public repository	,	https://github.com/noob-coder123/Genisys	
+No license provided in public repository	,	https://github.com/zapaiamarce/async-promises-desafio	
+No license provided in public repository	,	https://github.com/namishkhanna/hacktoberfest2021	
+No license provided in public repository	,	https://github.com/DEVOPSA12/web-app	
+No license provided in public repository	,	https://github.com/LaravelDaily/Test-Laravel-Auth-Basics	
+No license provided in public repository	,	https://github.com/Raghav-Bajaj/HacktoberFest2021	
+No license provided in public repository	,	https://github.com/WebHostingServer/HacktoberFest2021	
+No license provided in public repository	,	https://github.com/arjunachari12/docker-demo-with-simple-python-app	
+No license provided in public repository	,	https://github.com/mate-academy/jv-spring-security	
+No license provided in public repository	,	https://github.com/GeekHaven/Aparoksha-Month-Webd	
+No license provided in public repository	,	https://github.com/kaakaww/vuln_node_express	
+No license provided in public repository	,	https://github.com/tharsis/testnets	
+No license provided in public repository	,	https://github.com/LaneSh4d0w/query-streamlink	
+No license provided in public repository	,	https://github.com/alanbobs999/TopFreeProxies	
+No license provided in public repository	,	https://github.com/0xEssential/opensea-discord-bot	
+No license provided in public repository	,	https://github.com/Rdprepogithub01/Rdp	
+No license provided in public repository	,	https://github.com/MidoxBighAmzdad/Windows2019RDP-US	
+No license provided in public repository	,	https://github.com/sermakov/JavaFirstMirea	
+No license provided in public repository	,	https://github.com/amigoscode/login-registration-backend	
+No license provided in public repository	,	https://github.com/Ren0503/design-pattern	
+No license provided in public repository	,	https://github.com/SummerSec/ShiroAttack2	
+No license provided in public repository	,	https://github.com/sarat9/microservices-architect-config-starter	
+No license provided in public repository	,	https://github.com/mate-academy/jv-oop-lesson-0	
+No license provided in public repository	,	https://github.com/upslopeio/express-sample-app	
+No license provided in public repository	,	https://github.com/rolling-scopes-school/rs.ios.stage-task6	
+No license provided in public repository	,	https://github.com/joinpursuit/8-0-built-in-methods-lab	
+No license provided in public repository	,	https://github.com/mouredev/Weekly-Challenge-2022-Swift	
+No license provided in public repository	,	https://github.com/dmalvia/React_Redux_Tutorial	
+No license provided in public repository	,	https://github.com/DSC-CETB/SeptoCode-21	
+No license provided in public repository	,	https://github.com/HackerUSA-CE/JS-Web-Game-Part-3	
+No license provided in public repository	,	https://github.com/TdP-2021/Ruzzle	
+No license provided in public repository	,	https://github.com/joinpursuit/8-0-higher-order-functions-lab	
+No license provided in public repository	,	https://github.com/kabirthakkar/Hkfst2k21	
+No license provided in public repository	,	https://github.com/joinpursuit/8-0-modern-javascript-features-lab	
+No license provided in public repository	,	https://github.com/LandmakTechnology/nodejs-application	
+No license provided in public repository	,	https://github.com/AliyunWorkbench/nextJS	
+No license provided in public repository	,	https://github.com/wrideveloper/gitxplore-started-2021	
+No license provided in public repository	,	https://github.com/Thinkful-Ed/starter-stacks-queues	
+No license provided in public repository	,	https://github.com/zjhxsj/nvjdcdocker	
+No license provided in public repository	,	https://github.com/nighthawkcoders/flask_portfolio	
+No license provided in public repository	,	https://github.com/saad-eddine/RDPwindows2019	
+No license provided in public repository	,	https://github.com/powerlink/PplFinder	
+No license provided in public repository	,	https://github.com/EvgeniyBon/topjava-1	
+No license provided in public repository	,	https://github.com/amitjuyal/MCAENDTERMEXAM	
+No license provided in public repository	,	https://github.com/cosmos/chain-registry	
+No license provided in public repository	,	https://github.com/Heytec/ADS_REV_code	
+No license provided in public repository	,	https://github.com/divs950/divs950-MCA-2-Computer-Networks-TMC-203	
+No license provided in public repository	,	https://github.com/sidd-harth/kubernetes-devops-security	
+No license provided in public repository	,	https://github.com/coders-school/linux	
+No license provided in public repository	,	https://github.com/forthespada/CS-Books	
+No license provided in public repository	,	https://github.com/vandadnp/flutter-tips-and-tricks	
+No license provided in public repository	,	https://github.com/BoltzmannEntropy/interviews.ai	
+No license provided in public repository	,	https://github.com/dreamhead/patterns-of-distributed-systems	
+No license provided in public repository	,	https://github.com/niespodd/browser-fingerprinting	
+No license provided in public repository	,	https://github.com/stong/how-to-exploit-a-double-free	
+No license provided in public repository	,	https://github.com/TechXueXi/techxuexi-js	
+No license provided in public repository	,	https://github.com/RimoChan/match-you	
+No license provided in public repository	,	https://github.com/peng-zhihui/Peak	
+No license provided in public repository	,	https://github.com/NVlabs/eg3d	
+No license provided in public repository	,	https://github.com/6dylan6/jdpro	
+No license provided in public repository	,	https://github.com/mpcabete/bombcrypto-bot	
+No license provided in public repository	,	https://github.com/ErickWendel/semana-javascript-expert04	
+No license provided in public repository	,	https://github.com/Jack-Cherish/quantitative	
+No license provided in public repository	,	https://github.com/WebDevSimplified/useful-custom-react-hooks	
+No license provided in public repository	,	https://github.com/AlynxZhou/gnome-shell-extension-inotch	
+No license provided in public repository	,	https://github.com/ihciah/clean-dns-bpf	
+No license provided in public repository	,	https://github.com/hongchacha/cartoon	
+No license provided in public repository	,	https://github.com/mydockfinder/mydockfinder-for-Win10-Win11	
+No license provided in public repository	,	https://github.com/HackJava/HackJava	
+No license provided in public repository	,	https://github.com/luruke/aladino	
+No license provided in public repository	,	https://github.com/calebstewart/CVE-2021-1675	
+No license provided in public repository	,	https://github.com/ErickWendel/semana-js-expert30	
+No license provided in public repository	,	https://github.com/KarenOk/whatsapp-web-clone	
+No license provided in public repository	,	https://github.com/teteusAraujo/KdMeuBichinho	
+No license provided in public repository	,	https://github.com/lewis6991/impatient.nvim	
+No license provided in public repository	,	https://github.com/Nafidinara/bot-pancakeswap	
+No license provided in public repository	,	https://github.com/CCob/BeaconEye	
+No license provided in public repository	,	https://github.com/dqzg12300/fridaUiTools	
+No license provided in public repository	,	https://github.com/mdubourg001/glci	
+No license provided in public repository	,	https://github.com/lintstar/LSTAR	
+No license provided in public repository	,	https://github.com/utimur/online-store-full-course	
+No license provided in public repository	,	https://github.com/bvaughn/planner	
+No license provided in public repository	,	https://github.com/juliourena/SharpNoPSExec	
+No license provided in public repository	,	https://github.com/zcgonvh/EfsPotato	
+No license provided in public repository	,	https://github.com/githubvpn007/v2rayNvpn	
+No license provided in public repository	,	https://github.com/Hzllaga/BT_Panel_Privilege_Escalation	
+No license provided in public repository	,	https://github.com/bradtraversy/bootstrap-bootcamp-website	
+No license provided in public repository	,	https://github.com/alexis-regnaud/advanced-react-patterns	
+No license provided in public repository	,	https://github.com/langjam/jam0001	
+No license provided in public repository	,	https://github.com/plutooo/nx-btred	
+No license provided in public repository	,	https://github.com/The-Learning-And-Vision-Atelier-LAVA/DASR	
+No license provided in public repository	,	https://github.com/bradtraversy/dj-events-frontend	
+No license provided in public repository	,	https://github.com/nettitude/RunPE	
+No license provided in public repository	,	https://github.com/karcan/javaBootcamp	
+No license provided in public repository	,	https://github.com/glibg10b/ltt-linux-challenge-issues	
+No license provided in public repository	,	https://github.com/Asabeneh/10-days-of-git-and-github	
+No license provided in public repository	,	https://github.com/pj567/TVMovie	
+No license provided in public repository	,	https://github.com/MuriungiPatrick/Bootstrap-5-portfolio-template	
+No license provided in public repository	,	https://github.com/samsface/godot-steam-api	
+No license provided in public repository	,	https://github.com/luo3300612/Visualizer	
+No license provided in public repository	,	https://github.com/cfs6/AChat	
+No license provided in public repository	,	https://github.com/KibaeKim/SectorTradingAlgorithm	
+No license provided in public repository	,	https://github.com/p0dalirius/LDAPmonitor	
+No license provided in public repository	,	https://github.com/folke/twilight.nvim	
+No license provided in public repository	,	https://github.com/woodpecker-appstore/log4j-payload-generator	
+No license provided in public repository	,	https://github.com/lab52io/StopDefender	
+No license provided in public repository	,	https://github.com/DawnFlame/POChouse	
+No license provided in public repository	,	https://github.com/dallaslu/penzai-list	
+No license provided in public repository	,	https://github.com/tr0uble-mAker/POC-bomber	
+No license provided in public repository	,	https://github.com/csguide-dabai/interview-guide	
+No license provided in public repository	,	https://github.com/Barbaross93/Genome	
+No license provided in public repository	,	https://github.com/RCStep/CSSG	
+No license provided in public repository	,	https://github.com/qianlongo/fe-handwriting	
+No license provided in public repository	,	https://github.com/RimoChan/steal_piano	
+No license provided in public repository	,	https://github.com/YinWC/2021hvv_vul	
+No license provided in public repository	,	https://github.com/gakonst/opensea-rs	
+No license provided in public repository	,	https://github.com/gisbi-kim/SC-A-LOAM	
+No license provided in public repository	,	https://github.com/The-DevX-Initiative/RCIG_Coordination_Repo	
+No license provided in public repository	,	https://github.com/trickster0/TartarusGate	
+No license provided in public repository	,	https://github.com/luruke/human-gpu	
+No license provided in public repository	,	https://github.com/SaraSoueidan/sarasoueidan.dev	
+No license provided in public repository	,	https://github.com/brookmiles/freqtrade-stuff	
+No license provided in public repository	,	https://github.com/A-D-Team/SharpMemshell	
+No license provided in public repository	,	https://github.com/stevepolitodesign/rails-authentication-from-scratch	
+No license provided in public repository	,	https://github.com/christophrumpel/larastreamers	
+No license provided in public repository	,	https://github.com/steventroughtonsmith/CatalystControlsGallery	
+No license provided in public repository	,	https://github.com/abuanwar072/Responsive-and-Animated-Portfolio-Flutter	
+No license provided in public repository	,	https://github.com/zzsza/Boostcamp-AI-Tech-Product-Serving	
+No license provided in public repository	,	https://github.com/matuzo/DevToolsSnippets	
+No license provided in public repository	,	https://github.com/CyberPunkMetalHead/Bitcoin-Surge-Trading-Alpha	
+No license provided in public repository	,	https://github.com/rydercalmdown/package_theft_preventor	
+No license provided in public repository	,	https://github.com/franklbt/RentMyCPU	
+No license provided in public repository	,	https://github.com/eatonphil/lisp-rosetta-stone	
+No license provided in public repository	,	https://github.com/aldonunez/zelda1-disassembly	
+No license provided in public repository	,	https://github.com/ErickWendel/lives-aquecimento02-javascript-expert	
+No license provided in public repository	,	https://github.com/jpomykala/awesome-i18n	
+No license provided in public repository	,	https://github.com/ytx1991/ChiaMonitor	
+No license provided in public repository	,	https://github.com/codeedu/imersao4	
+No license provided in public repository	,	https://github.com/sidpalas/devops-directive-terraform-course	
+No license provided in public repository	,	https://github.com/jacopotediosi/GoogleDialerMod	
+No license provided in public repository	,	https://github.com/AntoineW/luge	
+No license provided in public repository	,	https://github.com/splinetool/react-spline	
+No license provided in public repository	,	https://github.com/hua1995116/360-sneakers-viewer	
+No license provided in public repository	,	https://github.com/forthespada/CSLearning	
+No license provided in public repository	,	https://github.com/mikehuang99/wangxin-study	
+No license provided in public repository	,	https://github.com/makermoekoe/ESP32Picoremote	
+No license provided in public repository	,	https://github.com/optiv/Registry-Recon	
+No license provided in public repository	,	https://github.com/waldo-irc/CVE-2021-21551	
+No license provided in public repository	,	https://github.com/Eddddddddy/T12-PD-SolderingPen	
+No license provided in public repository	,	https://github.com/zgood9527/sql-update-check	
+No license provided in public repository	,	https://github.com/wufuqi123/SimpleEngine-pixijs	
+No license provided in public repository	,	https://github.com/labulakalia/ibm_bak	
+No license provided in public repository	,	https://github.com/android-ui-testing/Cookbook	
+No license provided in public repository	,	https://github.com/aniqfakhrul/Sharperner	
+No license provided in public repository	,	https://github.com/tusc/wireguard-kmod	
+No license provided in public repository	,	https://github.com/MuQiuJun-AI/bert4pytorch	
+No license provided in public repository	,	https://github.com/Tinkoff/career	
+No license provided in public repository	,	https://github.com/magoo/ato-checklist	
+No license provided in public repository	,	https://github.com/songhwanjun/Awesome-Noisy-Labels	
+No license provided in public repository	,	https://github.com/abcz316/linuxKernelRoot	
+No license provided in public repository	,	https://github.com/wdhao/tensorrtCV	
+No license provided in public repository	,	https://github.com/LaresLLC/CVE-2021-1675	
+No license provided in public repository	,	https://github.com/meabhisingh/mernProjectEcommerce	
+No license provided in public repository	,	https://github.com/AmirHosseinBabaeayan/Python-Learning	
+No license provided in public repository	,	https://github.com/monaGeju/FEShare	
+No license provided in public repository	,	https://github.com/mikekelly/btc-endgame	
+No license provided in public repository	,	https://github.com/PAVANINADELLA/DATA-SCIENCE-NOTES	
+No license provided in public repository	,	https://github.com/Manawyrm/fxIP	
+No license provided in public repository	,	https://github.com/scandum/gridsort	
+No license provided in public repository	,	https://github.com/uchan-nos/os-from-zero	
+No license provided in public repository	,	https://github.com/utimur/react-redux-typescript-course	
+No license provided in public repository	,	https://github.com/shubhamhackz/flutter-ninja	
+No license provided in public repository	,	https://github.com/cube0x0/MiniDump	
+No license provided in public repository	,	https://github.com/utimur/profi-backend-node-js	
+No license provided in public repository	,	https://github.com/huoji120/CobaltStrikeDetected	
+No license provided in public repository	,	https://github.com/Elvanos/fantasia-archive	
+No license provided in public repository	,	https://github.com/steelsojka/pears.nvim	
+No license provided in public repository	,	https://github.com/bifang-fyh/gude	
+No license provided in public repository	,	https://github.com/JavaInterviewHub/JavaInterview	
+No license provided in public repository	,	https://github.com/G-Security-Team/GSLibrary	
+No license provided in public repository	,	https://github.com/zackradisic/aussieplusplus	
+No license provided in public repository	,	https://github.com/khuyentran1401/Efficient_Python_tricks_and_tools_for_data_scientists	
+No license provided in public repository	,	https://github.com/commit-live-students/Data_Science_Masters_Program_2021	
+No license provided in public repository	,	https://github.com/safe6Sec/PentestDB	
+No license provided in public repository	,	https://github.com/codeedu/imersao-fullstack-fullcycle	
+No license provided in public repository	,	https://github.com/0voice/kernel_memory_management	
+No license provided in public repository	,	https://github.com/linjc/smooth-signature	
+No license provided in public repository	,	https://github.com/yuesong-feng/30dayMakeCppServer	
+No license provided in public repository	,	https://github.com/sxyu/volrend	
+No license provided in public repository	,	https://github.com/nxshell/nxshell	
+No license provided in public repository	,	https://github.com/GoldHEN/GoldHEN	
+			,
+Type	,	Repo	,	License changed date	,
+Uninformed License change	,	https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2	,	Mar 31, 2021	,
+Uninformed License change	,	https://github.com/neuralchen/SimSwap	,	Jul 3, 2021	,
+Uninformed License change	,	https://github.com/marceloprates/prettymaps	,	Oct 18, 2021	,
+Uninformed License change	,	https://github.com/livebook-dev/livebook	,	Apr 13, 2021	,
+Uninformed License change	,	https://github.com/achannarasappa/ticker	,	Jan 25, 2021	,
+Uninformed License change	,	https://github.com/DouyinFE/semi-design	,	Oct 29, 2021	,
+Uninformed License change	,	https://github.com/kdrag0n/safetynet-fix	,	Jan 14, 2021	,
+Uninformed License change	,	https://github.com/M2Team/NanaZip	,	Sep 25, 2021 	,
+Uninformed License change	,	https://github.com/apache/arrow-rs	,	Sep 25, 2019	,
+Uninformed License change	,	https://github.com/apache/arrow-rs	,	Jul 16, 2019	,
+Uninformed License change	,	https://github.com/apache/arrow-rs	,	Feb 19, 2019 	,
+Uninformed License change	,	https://github.com/apache/arrow-rs	,	Sep 29, 2018	,
+Uninformed License change	,	https://github.com/chowa/ejyy	,	Nov 23, 2021 	,
+Uninformed License change	,	https://github.com/ThisisGame/cpp-game-engine-book	,	Jul 25, 2021	,
+Uninformed License change	,	https://github.com/c0dearm/mushin	,	Apr 9, 2021	,
+Uninformed License change	,	https://github.com/c0dearm/mushin	,	Apr 9, 2021	,
+			,
+Type	,	Link	
+No attribution to the author in code	,	https://github.com/Anarios/return-youtube-dislike/pull/119                                             	
+No attribution to the author in code	,	https://github.com/deepmind/alphafold/pull/192                                                         	
+No attribution to the author in code	,	https://github.com/DouyinFE/semi-design/issues/670                                                     	
+No attribution to the author in code	,	https://github.com/opensearch-project/OpenSearch/pull/648                                              	
+No attribution to the author in code	,	https://github.com/sysprog21/lkmpg/pull/80                                                             	
+No attribution to the author in code	,	https://github.com/megaease/easegress/pull/426                                                         	
+No attribution to the author in code	,	https://github.com/megaease/easegress/pull/100                                                         	
+No attribution to the author in code	,	https://github.com/lucidrains/DALLE-pytorch/pull/349                                                   	
+No attribution to the author in code	,	https://github.com/tkellogg/dura/pull/66                                                               	
+No attribution to the author in code	,	https://github.com/tkellogg/dura/pull/43                                                               	
+No attribution to the author in code	,	https://github.com/waydroid/waydroid/pull/124                                                          	
+No attribution to the author in code	,	https://github.com/google/model_search/pull/8                                                          	
+No attribution to the author in code	,	https://github.com/pystardust/ani-cli/pull/126                                                         	
+No attribution to the author in code	,	https://github.com/modern-js-dev/modern.js/pull/273                                                    	
+No attribution to the author in code	,	https://github.com/mrousavy/react-native-vision-camera/pull/958                                        	
+No attribution to the author in code	,	https://github.com/mrousavy/react-native-vision-camera/pull/645                                        	
+No attribution to the author in code	,	https://github.com/mrousavy/react-native-vision-camera/pull/228                                        	
+No attribution to the author in code	,	https://github.com/StarRocks/starrocks/pull/3673                                                       	
+No attribution to the author in code	,	https://github.com/StarRocks/starrocks/pull/3640                                                       	
+No attribution to the author in code	,	https://github.com/StarRocks/starrocks/pull/1391                                                       	
+No attribution to the author in code	,	https://github.com/lunasec-io/lunasec/issues/274                                                       	
+No attribution to the author in code	,	https://github.com/reactive-tech/kubegres/issues/27                                                    	
+No attribution to the author in code	,	https://github.com/spencerwooo/onedrive-vercel-index/pull/387                                          	
+No attribution to the author in code	,	https://github.com/JuliaSymbolics/Symbolics.jl/pull/530                                                	
+No attribution to the author in code	,	https://github.com/nschloe/tiptop/issues/6                                                             	
+No attribution to the author in code	,	https://github.com/Rikj000/MoniGoMani/pull/224                                                         	
+No attribution to the author in code	,	https://github.com/mrousavy/react-native-multithreading/pull/5                                         	
+No attribution to the author in code	,	https://github.com/VOICEVOX/voicevox/pull/270                                                          	
+No attribution to the author in code	,	https://github.com/aantron/dream/issues/190                                                            	
+No attribution to the author in code	,	https://github.com/blockprotocol/blockprotocol/pull/189                                                	
+No attribution to the author in code	,	https://github.com/bigscience-workshop/promptsource/pull/406                                           	
+No attribution to the author in code	,	https://github.com/bigscience-workshop/promptsource/issues/20                                          	
+No attribution to the author in code	,	https://github.com/antfu/drauu/pull/4                                                                  	
+No attribution to the author in code	,	https://github.com/edubart/minicoro/issues/3                                                           	
+No attribution to the author in code	,	https://github.com/advplyr/audiobookshelf/issues/251                                                   	
+No attribution to the author in code	,	https://github.com/christophrumpel/larastreamers/pull/7                                                	
+No attribution to the author in code	,	https://github.com/bmresearch/Solnet/pull/345                                                          	
+No attribution to the author in code	,	https://github.com/alexzaganelli/strapi-plugin-email-designer/pull/67                                  	
+No attribution to the author in code	,	https://github.com/aws-amplify/amplify-ui/pull/1434                                                    	
+No attribution to the author in code	,	https://github.com/aws-amplify/amplify-ui/pull/1378                                                    	
+No attribution to the author in code	,	https://github.com/cloudflare/wrangler/pull/2149                                                         	
+No attribution to the author in code	,	https://github.com/huggingface/optimum/pull/106                                                        	
+No attribution to the author in code	,	https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard/pull/43                     	
+No attribution to the author in code	,	https://github.com/TuSimple/naive-ui/issues/2504                                                       	
+No attribution to the author in code	,	https://github.com/kingoflolz/mesh-transformer-jax/pull/151                                            	
+No attribution to the author in code	,	https://github.com/buildspace/gif-portal-starter/pull/2                                                	
+No attribution to the author in code	,	https://github.com/solana-labs/wallet-adapter/pull/164                                                 	
+No attribution to the author in code	,	https://github.com/solana-labs/wallet-adapter/pull/122                                                 	
+No attribution to the author in code	,	https://github.com/Technigo/project-chatbot/pull/14                                                    	
+No attribution to the author in code	,	https://github.com/adrianhajdin/project_cryptoverse/pull/42                                            	
+No attribution to the author in code	,	https://github.com/jose-elias-alvarez/null-ls.nvim/pull/478                                            	
+No attribution to the author in code	,	https://github.com/mrousavy/react-native-vision-camera/pull/159                                        	
+No attribution to the author in code	,	https://github.com/iota-community/iota-wiki/pull/276                                                   	
+No attribution to the author in code	,	https://github.com/kimlimjustin/xplorer/pull/226                                                       	
+No attribution to the author in code	,	https://github.com/kimlimjustin/xplorer/issues/126                                                     	
+No attribution to the author in code	,	https://github.com/codeforcauseorg/edu-client/pull/177                                                 	
+No attribution to the author in code	,	https://github.com/next-step/jwp-qna/pull/249                                                          	
+No attribution to the author in code	,	https://github.com/next-step/jwp-qna/pull/25                                                           	
+No attribution to the author in code	,	https://github.com/kolmafia/kolmafia/pull/297	
+			,
+Type	,	Link	
+Self-promotion	,	https://github.com/louislam/uptime-kuma/issues/991	
+Self-promotion	,	https://github.com/benawad/dogehouse/issues/1305	
+Self-promotion	,	https://github.com/NvChad/NvChad/issues/706	
+Self-promotion	,	https://github.com/NvChad/NvChad/issues/37	
+Self-promotion	,	https://github.com/deepmind/alphafold/pull/27	
+Self-promotion	,	https://github.com/whyour/qinglong/pull/672	
+Self-promotion	,	https://github.com/armosec/kubescape/issues/352	
+Self-promotion	,	https://github.com/armosec/kubescape/pull/110	
+Self-promotion	,	https://github.com/juicedata/juicefs/issues/287	
+Self-promotion	,	https://github.com/opensearch-project/OpenSearch/issues/968	
+Self-promotion	,	https://github.com/opensearch-project/OpenSearch/issues/855	
+Self-promotion	,	https://github.com/opensearch-project/OpenSearch/issues/532	
+Self-promotion	,	https://github.com/opensearch-project/OpenSearch/issues/532	
+Self-promotion	,	https://github.com/google/lyra/issues/12	
+Self-promotion	,	https://github.com/mrousavy/react-native-vision-camera/issues/788	
+Self-promotion	,	https://github.com/royshil/obs-backgroundremoval/issues/81	
+Self-promotion	,	https://github.com/brillout/vite-plugin-ssr/issues/56	
+Self-promotion	,	https://github.com/DeepGraphLearning/torchdrug/issues/65	
+Self-promotion	,	https://github.com/vuejs/create-vue/issues/9	
+Self-promotion	,	https://github.com/Sentdex/GANTheftAuto/issues/14	
+Self-promotion	,	https://github.com/Kotlin/kotlinx-kover/issues/100	
+Self-promotion	,	https://github.com/NitzanHen/agrippa/issues/8	
+Self-promotion	,	https://github.com/leikoilja/ha-google-home/issues/191	
+Self-promotion	,	https://github.com/nativeshell/nativeshell/issues/34	
+Self-promotion	,	https://github.com/unjs/unbuild/issues/45	
+Self-promotion	,	https://github.com/p-e-w/savage/issues/7	
+Self-promotion	,	https://github.com/suzuki-shunsuke/tfcmt/pull/169	
+Self-promotion	,	https://github.com/tuya/tuya-homebridge/issues/25	
+Self-promotion	,	https://github.com/karb94/neoscroll.nvim/issues/20	
+Self-promotion	,	https://github.com/ibraheemdev/modern-unix/pull/53	
+Self-promotion	,	https://github.com/bullhe4d/bigwatermelon/pull/12	
+Self-promotion	,	https://github.com/facebookresearch/Kats/issues/206	
+Self-promotion	,	https://github.com/sigstore/cosign/issues/86	
+Self-promotion	,	https://github.com/dotnetcore/FastGithub/issues/41	
+Self-promotion	,	https://github.com/arantes555/electron-fetch/issues/43	
+Self-promotion	,	https://github.com/aws-samples/amazon-ivs-chime-messaging-ugc-demo/issues/1	
+Self-promotion	,	https://github.com/LaurentCabaret/pyVhdl2Sch/issues/11	
+
+Type	,	Repo	
+Unmaintained Android Project with Paid Service	,	https://github.com/weta-vn/advance_image_picker	
+Unmaintained Android Project with Paid Service	,	https://github.com/RushikeshKamewar/PrivacyDashboard	
+Unmaintained Android Project with Paid Service	,	https://github.com/plenaryapp/awesome-rss-feeds	
+Unmaintained Android Project with Paid Service	,	https://github.com/RushikeshKamewar/PrivacyDashboard	
+
+Type	,	repo 1	,	repo 2	,
+Soft forking	,	https://github.com/namndwebdev/tang-crush	,	https://github.com/quocdinhit97/YTB-youtube-2021-totinh-part-2	,
+Soft forking	,	https://github.com/namndwebdev/tang-crush	,	https://github.com/Canduy/crush	,
+Soft forking	,	https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2	,	https://github.com/dakshkohli23/Adv-Auto-Filter-Bot_v2	,
+Soft forking	,	https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2	,	https://github.com/movieshubofficial123/MH-Adv-Auto-Filter-Bot-V2	,
+Soft forking	,	https://github.com/YunaiV/ruoyi-vue-pro	,	https://github.com/zhangmc/xflow	,
+Soft forking	,	https://github.com/YunaiV/ruoyi-vue-pro	,	https://github.com/baiyang256101/ruoyi-vue-pro	,
+Soft forking	,	https://github.com/deepmind/alphafold	,	https://github.com/lucidrains/alphafold2	,
+Soft forking	,	https://github.com/VickScarlet/lifeRestart	,	https://github.com/xitu/coding-life	,
+Soft forking	,	https://github.com/deepmind/alphafold	,	https://github.com/kuixu/alphafold	,
+Soft forking	,	https://github.com/upgundecha/howtheysre	,	https://github.com/snippergoals/howtheysre	,
