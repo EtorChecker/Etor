@@ -1,4 +1,4 @@
-|S/N|Repo|Issues reported by Etor for feedback|Remarks|Remarks|									
+|S/N|Repo|Issues reported by Etor for feedback|Remarks|							
 |:-----:|:-------:|:-------:|:-------:|	
 |	1	|	https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2	|	https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2/issues/120	|		|
 |	2	|	https://github.com/neuralchen/SimSwap	|	https://github.com/neuralchen/SimSwap/issues/290	|		|
