@@ -1,4 +1,4 @@
-|S/N|Repo|Issues reported by Etor for feedback|Remarks/Feedback|								
+|S/N|Repo|GitHub issue link reported by Etor for feedback|Remarks/Feedback|								
 |:-----:|:-------:|:-------:|:-------:|								
 |	1	|	https://github.com/namndwebdev/tang-crush	|	https://github.com/namndwebdev/tang-crush/issues/374	|		|
 |	2	|	https://github.com/carameleon/frontier-chain-testnets	|		|	the owners turn issues off for the repo and do not accept contributions or bug reports	|
