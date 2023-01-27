@@ -1,4 +1,4 @@
-|S/N|Repo 1|Repo 2|Issues reported by Etor for feedback|Remarks|									
+|S/N|Repo 1|Repo 2|GitHub issue link reported by Etor for feedback|Remarks|									
 |:-----:|:-------:|:-------:|:-------:|:-------:|
 |	1	|	https://github.com/namndwebdev/tang-crush	|	https://github.com/quocdinhit97/YTB-youtube-2021-totinh-part-2	|	https://github.com/quocdinhit97/YTB-youtube-2021-totinh-part-2/issues/9	|		|
 |	2	|	https://github.com/namndwebdev/tang-crush	|	https://github.com/Canduy/crush	|	https://github.com/Canduy/crush/issues/4	|		|
