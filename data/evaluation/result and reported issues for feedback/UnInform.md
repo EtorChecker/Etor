@@ -1,4 +1,4 @@
-|S/N|Repo|Commit link | Issues reported by Etor for feedback|Remarks|										
+|S/N|Repo|Commit link | GitHub issue link reported by Etor for feedback |Remarks|										
 |:-----:|:-------:|:-------:|:-------:|:-------:|										
 |	1	|	https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2	|	https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2/commit/73d2755e517d5cac25e2437e30a94797bf17c404	|	https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2/issues/120	|		|
 |	2	|	https://github.com/neuralchen/SimSwap	|	https://github.com/neuralchen/SimSwap/commit/40595829ce23396afeb734cd8cabc6e4c08f07cf	|	https://github.com/neuralchen/SimSwap/issues/290	|		|
