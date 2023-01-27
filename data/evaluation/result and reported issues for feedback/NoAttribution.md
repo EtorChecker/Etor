@@ -1,1 +1,82 @@
-
+|S/N|Issue link|Stackoverflow link|Remarks|								
+|:-----:|:-------:|:-------:|:-------:|								
+|	1	|	https://github.com/louislam/uptime-kuma/pull/600                                                       	|	https://stackoverflow.com/questions/39114446/how-can-i-write-a-eslint-rule-for-linebreak-style-changing-depending-on-windo	|	False positive	|
+|	2	|	https://github.com/benawad/dogehouse/pull/1244                                                         	|	https://stackoverflow.com/a/13361874/3838600	|	False positive	|
+|	3	|	https://github.com/Anarios/return-youtube-dislike/pull/119                                             	|	https://stackoverflow.com/questions/51086657/vue-warn-duplicate-keys-detected-x-this-may-cause-an-update-error/52658488	|		|
+|	4	|	https://github.com/NvChad/NvChad/pull/60                                                               	|	https://stackoverflow.com/questions/10642928/how-to-pull-request-a-wiki-page-on-github.	|	False positive	|
+|	5	|	https://github.com/deepmind/alphafold/pull/192                                                         	|	https://stackoverflow.com/a/54059837/4977554	|		|
+|	6	|	https://github.com/tenacityteam/tenacity/pull/594                                                      	|	https://stackoverflow.com/questions/13428910/how-to-set-the-environmental-variable-ld-library-path-in-linux	|	False positive	|
+|	7	|	https://github.com/DouyinFE/semi-design/issues/670                                                     	|	https://stackoverflow.com/questions/262158/disabled-input-text-color-on-ios	|		|
+|	8	|	https://github.com/opensearch-project/OpenSearch/pull/648                                              	|	https://stackoverflow.com/questions/9356543/logging-while-testing-through-gradle/35457740	|		|
+|	9	|	https://github.com/opensearch-project/OpenSearch/pull/540                                              	|	https://stackoverflow.com/a/36896396	|	False positive	|
+|	10	|	https://github.com/sysprog21/lkmpg/pull/80                                                             	|	https://stackoverflow.com/questions/58512430/how-to-write-to-protected-pages-in-the-linux-kernel	|		|
+|	11	|	https://github.com/megaease/easegress/pull/426                                                         	|	https://stackoverflow.com/questions/3297048/403-forbidden-vs-401-unauthorized-http-responses	|		|
+|	12	|	https://github.com/megaease/easegress/pull/100                                                         	|	https://stackoverflow.com/a/54426110/1705845	|		|
+|	13	|	https://github.com/lucidrains/DALLE-pytorch/pull/349                                                   	|	https://stackoverflow.com/questions/15008758/parsing-boolean-values-with-argparse	|		|
+|	14	|	https://github.com/tkellogg/dura/pull/66                                                               	|	https://stackoverflow.com/questions/42723065/how-to-sort-hashmap-keys-when-serializing-with-serde	|		|
+|	15	|	https://github.com/tkellogg/dura/pull/43                                                               	|	https://stackoverflow.com/questions/592620/how-can-i-check-if-a-program-exists-from-a-bash-script	|		|
+|	16	|	https://github.com/waydroid/waydroid/pull/124                                                          	|	https://stackoverflow.com/questions/303200/how-do-i-remove-delete-a-folder-that-is-not-empty	|		|
+|	17	|	https://github.com/google/model_search/pull/8                                                          	|	https://stackoverflow.com/questions/37582672/getting-unparsedflagaccesserror-when-trying-to-import-glog-in-python	|		|
+|	18	|	https://github.com/pystardust/ani-cli/pull/126                                                         	|	https://stackoverflow.com/a/3278427/16004619	|		|
+|	19	|	https://github.com/AsyncBanana/microdiff/issues/4                                                      	|	https://stackoverflow.com/questions/33164725/confusion-between-isnan-and-number-isnan-in-javascript/33165410#33165410	|	False positive	|
+|	20	|	https://github.com/livebook-dev/livebook/pull/536                                                      	|	https://stackoverflow.com/a/6433475	|	False positive	|
+|	21	|	https://github.com/livebook-dev/livebook/pull/109                                                      	|	https://stackoverflow.com/questions/11704828/how-to-allow-keyboard-focus-of-links-in-firefox	|	False positive	|
+|	22	|	https://github.com/modern-js-dev/modern.js/pull/273                                                    	|	https://stackoverflow.com/questions/46072248/node-js-how-to-detect-user-language	|		|
+|	23	|	https://github.com/mrousavy/react-native-vision-camera/pull/958                                        	|	https://stackoverflow.com/a/60585382	|		|
+|	24	|	https://github.com/mrousavy/react-native-vision-camera/pull/645                                        	|	https://stackoverflow.com/questions/46843849/why-is-videodataoutputs-availablevideocodectypes-empty/58017253	|		|
+|	25	|	https://github.com/mrousavy/react-native-vision-camera/pull/228                                        	|	https://stackoverflow.com/a/28657257/12270852	|		|
+|	26	|	https://github.com/StarRocks/starrocks/pull/3673                                                       	|	https://stackoverflow.com/questions/48616464/what-is-the-default-delimiter-for-hive-tables/48616635	|		|
+|	27	|	https://github.com/StarRocks/starrocks/pull/3640                                                       	|	https://stackoverflow.com/questions/48616464/what-is-the-default-delimiter-for-hive-tables/48616635	|		|
+|	28	|	https://github.com/StarRocks/starrocks/pull/1391                                                       	|	https://stackoverflow.com/questions/25374877/mktime-function-of-libc-returns-different-values-for-the-same-input	|		|
+|	29	|	https://github.com/lunasec-io/lunasec/issues/274                                                       	|	https://stackoverflow.com/questions/27103400/log4j2-how-to-disable-date-lookup-log4j-throws-exception	|		|
+|	30	|	https://github.com/reactive-tech/kubegres/issues/36                                                    	|	https://stackoverflow.com/questions/14592436/postgresql-error-canceling-statement-due-to-conflict-with-recovery	|	False positive	|
+|	31	|	https://github.com/reactive-tech/kubegres/issues/27                                                    	|	https://stackoverflow.com/questions/46085748/define-size-for-dev-shm-on-container-engine	|		|
+|	32	|	https://github.com/spencerwooo/onedrive-vercel-index/pull/387                                          	|	https://stackoverflow.com/questions/34096744/how-should-i-load-images-if-i-use-token-based-authentication	|		|
+|	33	|	https://github.com/JuliaSymbolics/Symbolics.jl/pull/530                                                	|	https://stackoverflow.com/questions/71140858/with-julia-symbolics-how-can-i-do-a-mathematical-summation	|		|
+|	34	|	https://github.com/nschloe/tiptop/issues/6                                                             	|	https://stackoverflow.com/questions/2440511/getting-cpu-temperature-using-python	|		|
+|	35	|	https://github.com/Rikj000/MoniGoMani/pull/224                                                         	|	https://stackoverflow.com/questions/4732200/replacement-for-source-in-sh	|		|
+|	36	|	https://github.com/mydockfinder/mydockfinder-for-Win10-Win11/issues/2                                  	|	https://stackoverflow.com/a/57195200	|	False positive	|
+|	37	|	https://github.com/mrousavy/react-native-multithreading/pull/5                                         	|	https://stackoverflow.com/questions/31205856/aar-support-in-android-mk	|		|
+|	38	|	https://github.com/VOICEVOX/voicevox/pull/270                                                          	|	https://stackoverflow.com/questions/13769141/can-i-change-rpath-in-an-already-compiled-binary	|		|
+|	39	|	https://github.com/aantron/dream/issues/190                                                            	|	https://stackoverflow.com/questions/42216700	|		|
+|	40	|	https://github.com/blockprotocol/blockprotocol/pull/189                                                	|	https://stackoverflow.com/questions/68694714/does-top-level-await-have-a-timeout	|		|
+|	41	|	https://github.com/looker-open-source/malloy/pull/275                                                  	|	https://stackoverflow.com/questions/55877879/vs-code-webview-css-variable-names-for-used-theme-tokencolors	|	False positive	|
+|	42	|	https://github.com/looker-open-source/malloy/pull/71                                                   	|	https://stackoverflow.com/a/44727578	|	False positive	|
+|	43	|	https://github.com/bigscience-workshop/promptsource/pull/406                                           	|	https://stackoverflow.com/a/21699210	|		|
+|	44	|	https://github.com/bigscience-workshop/promptsource/issues/20                                          	|	https://stackoverflow.com/questions/28652373/jinja2-in-variable-bug	|		|
+|	45	|	https://github.com/antfu/drauu/pull/4                                                                  	|	https://stackoverflow.com/a/10298843/4729613	|		|
+|	46	|	https://github.com/edubart/minicoro/issues/3                                                           	|	https://stackoverflow.com/questions/11893996/why-does-the-order-of-l-option-in-gcc-matter	|		|
+|	47	|	https://github.com/leikoilja/ha-google-home/pull/472                                                   	|	https://stackoverflow.com/a/53901668/5818549	|	False positive	|
+|	48	|	https://github.com/advplyr/audiobookshelf/issues/251                                                   	|	https://stackoverflow.com/questions/55732804/modal-is-closed-when-cursor-is-released-outside-the-modal-after-chrome-update-a	|		|
+|	49	|	https://github.com/sindresorhus/ts-extras/issues/50                                                    	|	https://stackoverflow.com/a/65117465/565877	|	False positive	|
+|	50	|	https://github.com/christophrumpel/larastreamers/pull/7                                                	|	https://stackoverflow.com/questions/69913/why-dont-self-closing-script-elements-work	|		|
+|	51	|	https://github.com/bmresearch/Solnet/pull/345                                                          	|	https://stackoverflow.com/questions/4980881/what-is-fastest-way-to-convert-bool-to-byte	|		|
+|	52	|	https://github.com/alexzaganelli/strapi-plugin-email-designer/pull/67                                  	|	https://stackoverflow.com/questions/37576685/using-async-await-with-a-foreach-loop	|		|
+|	53	|	https://github.com/alexzaganelli/strapi-plugin-email-designer/pull/46                                  	|	https://stackoverflow.com/questions/201323/how-can-i-validate-an-email-address-using-a-regular-expression?page=1&tab=votes#tab-top	|	False positive	|
+|	54	|	https://github.com/aws-amplify/amplify-ui/pull/1434                                                    	|	https://stackoverflow.com/questions/59909792/what-is-the-difference-between-margin-block-start-and-margin-top	|		|
+|	55	|	https://github.com/aws-amplify/amplify-ui/pull/1378                                                    	|	https://stackoverflow.com/questions/44525729/jest-fn-value-must-be-a-mock-function-or-spy	|		|
+|	56	|	https://github.com/cloudflare/wrangler/pull/2149                                                         	|	https://stackoverflow.com/questions/55374755/node-js-axios-download-file-stream-and-writefile	|		|
+|	57	|	https://github.com/huggingface/optimum/pull/106                                                        	|	https://stackoverflow.com/questions/61922334/how-to-solve-attributeerror-module-google-protobuf-descriptor-has-no-attribu	|		|
+|	58	|	https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard/pull/43                     	|	https://stackoverflow.com/questions/71305700/flutter-web-showing-error-for-scrollposition/71305907#71305907	|		|
+|	59	|	https://github.com/TuSimple/naive-ui/issues/2504                                                       	|	https://stackoverflow.com/questions/15234496/upload-directly-to-amazon-s3-using-ajax-returning-error-bucket-post-must-contai	|		|
+|	60	|	https://github.com/kingoflolz/mesh-transformer-jax/pull/151                                            	|	https://stackoverflow.com/questions/69937218/attributeerror-module-jaxlib-xla-extension-has-no-attribute-pmapfunction/69937986#69937986	|		|
+|	61	|	https://github.com/buildspace/gif-portal-starter/pull/2                                                	|	https://stackoverflow.com/questions/25112510/how-to-set-environment-variables-from-within-package-json	|		|
+|	62	|	https://github.com/solana-labs/wallet-adapter/pull/371                                                 	|	https://stackoverflow.com/questions/69351693/mui-v5-cant-resolve-emotion-react-in-node-modules-mui-styled-engine	|	False positive	|
+|	63	|	https://github.com/solana-labs/wallet-adapter/pull/164                                                 	|	https://stackoverflow.com/questions/2825856/html-button-to-not-submit-form.	|		|
+|	64	|	https://github.com/solana-labs/wallet-adapter/pull/122                                                 	|	https://stackoverflow.com/questions/34443187/do-something-before-reload-or-close-in-vue-js	|		|
+|	65	|	https://github.com/solana-labs/wallet-adapter/pull/95                                                  	|	https://stackoverflow.com/questions/52399839/duplicate-identifier-librarymanagedattributes	|	False positive	|
+|	66	|	https://github.com/Technigo/project-chatbot/pull/14                                                    	|	https://stackoverflow.com/c/technigo/questions/2110	|		|
+|	67	|	https://github.com/adrianhajdin/project_cryptoverse/pull/42                                            	|	https://stackoverflow.com/questions/847185/convert-a-unix-timestamp-to-time-in-javascript	|		|
+|	68	|	https://github.com/jose-elias-alvarez/null-ls.nvim/pull/478                                            	|	https://stackoverflow.com/questions/67550082/neovim-select-a-language-prompt	|		|
+|	69	|	https://github.com/mrousavy/react-native-vision-camera/pull/159                                        	|	https://stackoverflow.com/q/67807394/5281431~~	|		|
+|	70	|	https://github.com/mrousavy/react-native-vision-camera/pull/2                                          	|	https://stackoverflow.com/q/67370456/5281431	|	False positive	|
+|	71	|	https://github.com/alibaba/sealer/pull/743                                                             	|	https://stackoverflow.com/questions/38704769/golang-import-grouping-by-package	|	False positive	|
+|	72	|	https://github.com/iota-community/iota-wiki/pull/276                                                   	|	https://stackoverflow.com/a/5804278	|		|
+|	73	|	https://github.com/woowacourse/java-vendingmachine-precourse/pull/155                                  	|	https://stackoverflow.com/questions/5305854/best-place-for-validation-in-model-view-controller-model	|	False positive	|
+|	74	|	https://github.com/kimlimjustin/xplorer/pull/226                                                       	|	https://stackoverflow.com/questions/75980/when-are-you-supposed-to-use-escape-instead-of-encodeuri-encodeuricomponent	|		|
+|	75	|	https://github.com/kimlimjustin/xplorer/issues/126                                                     	|	https://stackoverflow.com/questions/26973570/setting-a-max-character-length-in-css/26975271	|		|
+|	76	|	https://github.com/codeforcauseorg/edu-client/pull/177                                                 	|	https://stackoverflow.com/a/66385743	|		|
+|	77	|	https://github.com/next-step/jwp-qna/pull/249                                                          	|	https://stackoverflow.com/questions/45730111/spring-data-repository-works-without-annotations	|		|
+|	78	|	https://github.com/next-step/jwp-qna/pull/25                                                           	|	https://stackoverflow.com/questions/4388360/should-i-write-equals-and-hashcode-methods-in-jpa-entities	|		|
+|	79	|	https://github.com/microsoft/gctoolkit/pull/84                                                         	|	https://stackoverflow.com/a/5236096/1431016	|	False positive	|
+|	80	|	https://github.com/kolmafia/kolmafia/pull/297	|	https://stackoverflow.com/questions/17533451/jeditorpane-linewrap-in-java7/26583365#26583365	|		|
