@@ -12,8 +12,8 @@
 |	10	|	https://github.com/apache/arrow-rs	|	https://github.com/apache/arrow-rs/commit/07fc1d2c391001b157abd933906f7c7937331d5d	|	https://github.com/apache/arrow-rs/issues/2128	|		|
 |	11	|	https://github.com/apache/arrow-rs	|	https://github.com/apache/arrow-rs/commit/ead04adea9244fa4cb460bbc13c0e88766a76dda	|	https://github.com/apache/arrow-rs/issues/2128	|		|
 |	12	|	https://github.com/apache/arrow-rs	|	https://github.com/apache/arrow-rs/commit/3e9c7c86421bdfe526b5249da2e2eef2505f313f	|	https://github.com/apache/arrow-rs/issues/2128	|		|
-	13		https://github.com/heiyeluren/xmm	|	https://github.com/heiyeluren/xmm/commit/42fb07e7bfd33d154e21bfdedec7d0b93156b5e4	|		|	False positive	|
-	14		https://github.com/heiyeluren/xmm	|	https://github.com/heiyeluren/xmm/commit/db52571236966ec5349e76b75dcc5a05bb2d3b06	|		|	False positive	|
+|	13	|	https://github.com/heiyeluren/xmm	|	https://github.com/heiyeluren/xmm/commit/42fb07e7bfd33d154e21bfdedec7d0b93156b5e4	|		|	False positive	|
+|	14	|	https://github.com/heiyeluren/xmm	|	https://github.com/heiyeluren/xmm/commit/db52571236966ec5349e76b75dcc5a05bb2d3b06	|		|	False positive	|
 |	15	|	https://github.com/chowa/ejyy	|	https://github.com/chowa/ejyy/commit/44d1d73464160771237c8a6bce73a4803856d955	|	https://github.com/chowa/ejyy/issues/9	|		|
 |	16	|	https://github.com/ThisisGame/cpp-game-engine-book	|	https://github.com/ThisisGame/cpp-game-engine-book/commit/010bf0725ab9b5bf5f9ecb9ff373b8ab44a2f7ea	|	https://github.com/ThisisGame/cpp-game-engine-book/issues/8	|		|
 |	17	|	https://github.com/c0dearm/mushin	|	https://github.com/c0dearm/mushin/commit/713cb21d033b61b715c28fb81fa2327b70702527	|	https://github.com/c0dearm/mushin/issues/21	|		|
