@@ -11,8 +11,7 @@ Etor is in Java, and Python. You can find the source code under "src" directory 
 
   For "Unmaintained-Android-Project-with-PaidService",
   >[E.g.,  ./Etor.sh ghp_xxx 1 https://github.com/EtorChecker/Etor null null]
-  
-  
+    
   For "No-License-Provided-for-Public-Repository",
   >[E.g.,  ./Etor.sh ghp_xxx 2 https://github.com/EtorChecker/Etor null null]
   
@@ -39,6 +38,8 @@ The replication package is structured as follows:
     |--- src/                    Implementation including libraries and source code
     |--- tool/                   The scripts
     |--- LicenseList.txt         The list of license
+    |--- LICENSE                 Repo's license
+    |--- OntologyNew.PNG         Image for ontology used in Etor
 ```
 
 # Ontology-based approach for issue detection.
