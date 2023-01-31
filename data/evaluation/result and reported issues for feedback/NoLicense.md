@@ -3,20 +3,20 @@
 |	1	|	https://github.com/namndwebdev/tang-crush	|		|
 |	2	|	https://github.com/carameleon/frontier-chain-testnets	|	the owners turn issues off for the repo and do not accept contributions or bug reports	|
 |	3	|	https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code	|		|
-|	4	|	https://github.com/learn-co-curriculum/phase-0-html-issue-bot-9000-lab	|	Fixed	|
+|	4	|	https://github.com/learn-co-curriculum/phase-0-html-issue-bot-9000-lab	|	Valid - Fixed	|
 |	5	|	https://github.com/kanbertasli/gaih-students-repo-example	|	the owners turn issues off for the repo and do not accept contributions or bug reports	|
 |	6	|	https://github.com/MercurySolar/testnets-2	|	the owners turn issues off for the repo and do not accept contributions or bug reports	|
 |	7	|	https://github.com/bradtraversy/react-crash-2021	|		|
 |	8	|	https://github.com/OmniFlix/testnets	|		|
-|	9	|	https://github.com/DaoChen6/Heroku-v2ray	|	Fixed	|
+|	9	|	https://github.com/DaoChen6/Heroku-v2ray	|	Valid - Fixed	|
 |	10	|	https://github.com/rafaballerini/GitTutorial	|		|
-|	11	|	https://github.com/alihamed83/freevps	|	Positive  - accepted	|
+|	11	|	https://github.com/alihamed83/freevps	|	Valid - accepted	|
 |	12	|	https://github.com/codefresh-contrib/gitops-certification-examples	|		|
-|	13	|	https://github.com/sirodeneko/genshin-sign	|	Positive  - accepted	|
+|	13	|	https://github.com/sirodeneko/genshin-sign	|	Valid - accepted	|
 |	14	|	https://github.com/thanhnamvip1/Namkhoaito	|		|
 |	15	|	https://github.com/tangtangcoding/C-C-	|		|
 |	16	|	https://github.com/y35uishere/apache-log4j-poc	|	the owners turn issues off for the repo and do not accept contributions or bug reports	|
-|	17	|	https://github.com/learn-co-curriculum/phase-1-practice-interacting-with-the-dom	|	Fixed	|
+|	17	|	https://github.com/learn-co-curriculum/phase-1-practice-interacting-with-the-dom	|	Valid - Fixed	|
 |	18	|	https://github.com/KubeDev/rotten-potatoes	|		|
 |	19	|	https://github.com/bloominstituteoftechnology/web-module-project-reducer	|		|
 |	20	|	https://github.com/bloominstituteoftechnology/web-module-project-custom-hook	|		|
@@ -28,8 +28,8 @@
 |	26	|	https://github.com/ironhack-labs/lab-movies-celebrities	|		|
 |	27	|	https://github.com/dicodingacademy/Aplikasi-Login	|		|
 |	28	|	https://github.com/solana-labs/ecosystem	|	repo is archived/changed to private/ fixed before we reported	|
-|	29	|	https://github.com/learn-co-curriculum/phase-3-mock-code-challenge-freebie-tracker	|	Fixed	|
-|	30	|	https://github.com/bullhe4d/bigwatermelon	|	Negative	|
+|	29	|	https://github.com/learn-co-curriculum/phase-3-mock-code-challenge-freebie-tracker	|	Valid - Fixed	|
+|	30	|	https://github.com/bullhe4d/bigwatermelon	|	Invalid	|
 |	31	|	https://github.com/TechBowl-japan/html-stations	|	the owners turn issues off for the repo and do not accept contributions or bug reports	|
 |	32	|	https://github.com/deepakuniyaliit/FSWD_Practicals	|		|
 |	33	|	https://github.com/next-step/java-racingcar-precourse	|		|
@@ -39,22 +39,22 @@
 |	37	|	https://github.com/ttttdeded/aternos-afkbot	|	the owners turn issues off for the repo and do not accept contributions or bug reports	|
 |	38	|	https://github.com/GeeksforGeeks-VIT-Bhopal/GeekWeek-Local	|		|
 |	39	|	https://github.com/0voice/linux_kernel_wiki	|		|
-|	40	|	https://github.com/Kentacok03/rdpfree	|	Positive  - accepted	|
-|	41	|	https://github.com/soyHenry/Prep	|	Positive  - accepted	|
+|	40	|	https://github.com/Kentacok03/rdpfree	|	Valid - accepted	|
+|	41	|	https://github.com/soyHenry/Prep	|	Valid - accepted	|
 |	42	|	https://github.com/goosedefi/goose-frontend-farms	|		|
 |	43	|	https://github.com/goosedefi/goose-uikit	|		|
 |	44	|	https://github.com/hhroot/2021_Hvv	|		|
-|	45	|	https://github.com/learn-co-curriculum/phase-3-building-sinatra-applications	|	Fixed	|
+|	45	|	https://github.com/learn-co-curriculum/phase-3-building-sinatra-applications	|	Valid - Fixed	|
 |	46	|	https://github.com/training-support/FST-M1	|		|
 |	47	|	https://github.com/catvod/CatVodTVSpider	|	the owners turn issues off for the repo and do not accept contributions or bug reports	|
 |	48	|	https://github.com/ibraheemdev/modern-unix	|		|
 |	49	|	https://github.com/designcourse/threejs-webpack-starter	|		|
-|	50	|	https://github.com/mumuchenchen/pikpak	|	Positive  - accepted	|
+|	50	|	https://github.com/mumuchenchen/pikpak	|	Valid - accepted	|
 |	51	|	https://github.com/vedant1771/Hactoberfest2021	|		|
 |	52	|	https://github.com/wangyuan389/mall-cook	|	license added before we reported/ fixed before we reported	|
 |	53	|	https://github.com/vimallinuxworld13/git-workshop	|		|
 |	54	|	https://github.com/SmartKeyerror/Psyduck	|		|
-|	55	|	https://github.com/learn-co-curriculum/phase-1-mock-cc-ramen-rater	|	Fixed	|
+|	55	|	https://github.com/learn-co-curriculum/phase-1-mock-cc-ramen-rater	|	Valid - Fixed	|
 |	56	|	https://github.com/nus-cs2103-AY2122S1/ip	|		|
 |	57	|	https://github.com/djhdj1/AutoApiP	|	the owners turn issues off for the repo and do not accept contributions or bug reports	|
 |	58	|	https://github.com/paimooon/Daily-Reward	|		|
@@ -63,53 +63,53 @@
 |	61	|	https://github.com/cncamp/101	|	the owners turn issues off for the repo and do not accept contributions or bug reports	|
 |	62	|	https://github.com/incubyteco/string-calculator-starter	|		|
 |	63	|	https://github.com/PraktikumJava/m1-t12-code-style	|		|
-|	64	|	https://github.com/Omar07Ibarhim/RDP1	|	Positive  - accepted	|
+|	64	|	https://github.com/Omar07Ibarhim/RDP1	|	Valid - accepted	|
 |	65	|	https://github.com/titaniumnetwork-dev/Incognito-old	|	repo is archived/changed to private/ fixed before we reported	|
 |	66	|	https://github.com/Klerith/react-adv	|		|
 |	67	|	https://github.com/cdle/sillyGirl	|		|
 |	68	|	https://github.com/nicknochnack/TFODCourse	|	someone already raised issue on 08 April/ fixed before we reported	|
 |	69	|	https://github.com/SAFOOOO/rdpfree	|	the owners turn issues off for the repo and do not accept contributions or bug reports	|
 |	70	|	https://github.com/techwithtim/Flask-Web-App-Tutorial	|		|
-|	71	|	https://github.com/2-young-2-simple/VirtualApp	|	Positive  - accepted	|
-|	72	|	https://github.com/abuanwar072/Chat-Messaging-App-Light-and-Dark-Theme	|	Positive  - accepted	|
+|	71	|	https://github.com/2-young-2-simple/VirtualApp	|	Valid - accepted	|
+|	72	|	https://github.com/abuanwar072/Chat-Messaging-App-Light-and-Dark-Theme	|	Valid - accepted	|
 |	73	|	https://github.com/HackerUSA-CE/FSI-Implement-Coin-Flipper	|	license added before we reported/ fixed before we reported	|
 |	74	|	https://github.com/AliyunWorkbench/docusaurus	|		|
-|	75	|	https://github.com/learn-co-curriculum/phase-3-sinatra-with-active-record-get	|	Fixed	|
+|	75	|	https://github.com/learn-co-curriculum/phase-3-sinatra-with-active-record-get	|	Valid - Fixed	|
 |	76	|	https://github.com/golclinics/micropilot-entry-challenge	|		|
 |	77	|	https://github.com/deepakuniyaliit/webPractice	|		|
 |	78	|	https://github.com/codigofacilito/vacaciones-cody	|		|
 |	79	|	https://github.com/codeedu/imersao-fsfc2	|		|
 |	80	|	https://github.com/DeekshithSN/CICD_Java_gradle_application	|	the owners turn issues off for the repo and do not accept contributions or bug reports	|
 |	81	|	https://github.com/MoralisWeb3/youtube-tutorials	|		|
-|	82	|	https://github.com/ServiceNow/devtraining-createnotes-rome	|	Positive  - accepted	|
-|	83	|	https://github.com/Chia-Network/chia-docker	|	Fixed	|
+|	82	|	https://github.com/ServiceNow/devtraining-createnotes-rome	|	Valid - accepted	|
+|	83	|	https://github.com/Chia-Network/chia-docker	|	Valid - Fixed	|
 |	84	|	https://github.com/Coder-forfun/Hactoberfest-accepted	|		|
 |	85	|	https://github.com/next-step/java-baseball-playground	|		|
 |	86	|	https://github.com/ironhack-labs/unit-testing-guided-example	|		|
 |	87	|	https://github.com/adrianhajdin/chat_application	|		|
-|	88	|	https://github.com/DarkSnakeGang/GoogleSnakeCustomMenuStuff	|	Negative	|
+|	88	|	https://github.com/DarkSnakeGang/GoogleSnakeCustomMenuStuff	|	Invalid	|
 |	89	|	https://github.com/q1161347/JDDJ	|	the owners turn issues off for the repo and do not accept contributions or bug reports	|
 |	90	|	https://github.com/ironhack-labs/lab-react-tweets	|		|
 |	91	|	https://github.com/shikaruki/Hactoberfest2021	|		|
 |	92	|	https://github.com/crazyuyun/JDJB-1	|	the owners turn issues off for the repo and do not accept contributions or bug reports	|
 |	93	|	https://github.com/gyydgj/nvjdcdocker-1	|	the owners turn issues off for the repo and do not accept contributions or bug reports	|
-|	94	|	https://github.com/ihebski/DefaultCreds-cheat-sheet	|	Fixed	|
+|	94	|	https://github.com/ihebski/DefaultCreds-cheat-sheet	|	Valid - Fixed	|
 |	95	|	https://github.com/0voice/learning_mind_map	|		|
 |	96	|	https://github.com/stacksimplify/terraform-on-azure-cloud	|		|
 |	97	|	https://github.com/netology-ds-team/sal-rab-homeworks	|		|
 |	98	|	https://github.com/adarsh-dayanand/Accenture-learning-modules	|		|
 |	99	|	https://github.com/he1pu/JDHelp	|	the owners turn issues off for the repo and do not accept contributions or bug reports	|
-|	100	|	https://github.com/hctnm2/Open-Source-Enthusiast	|	Fixed	|
+|	100	|	https://github.com/hctnm2/Open-Source-Enthusiast	|	Valid - Fixed	|
 |	101	|	https://github.com/Codecademy/wedding-rsvp-off-platform-project	|		|
 |	102	|	https://github.com/jssam/Hactoberfest2021_projects	|		|
-|	103	|	https://github.com/learn-co-curriculum/phase-4-serializing-associations	|	Fixed	|
+|	103	|	https://github.com/learn-co-curriculum/phase-4-serializing-associations	|	Valid - Fixed	|
 |	104	|	https://github.com/kartikey54/VaccineAvailabilityNotifier	|		|
 |	105	|	https://github.com/sysnxw/jd-base	|	the owners turn issues off for the repo and do not accept contributions or bug reports	|
 |	106	|	https://github.com/adrianhajdin/portfolio_website	|		|
 |	107	|	https://github.com/avinashmamidi/maven-project-2	|		|
 |	108	|	https://github.com/appotry/sync-1	|	the owners turn issues off for the repo and do not accept contributions or bug reports	|
 |	109	|	https://github.com/alura-cursos/imersao-dados-desafio-final	|		|
-|	110	|	https://github.com/ISIS1225DEVS/ISIS1225-SampleMVC	|	Fixed	|
+|	110	|	https://github.com/ISIS1225DEVS/ISIS1225-SampleMVC	|	Valid - Fixed	|
 |	111	|	https://github.com/olist213/Information_Security_Books	|		|
 |	112	|	https://github.com/abuanwar072/Flutter-responsive-email-ui---Mobile-Tablet-and-Web	|		|
 |	113	|	https://github.com/Sniper7sumit/Hacktoberfest2021	|		|
@@ -125,20 +125,20 @@
 |	123	|	https://github.com/zapaiamarce/forks-y-prs	|		|
 |	124	|	https://github.com/Miraclelucy/dive_into_deep_learning	|		|
 |	125	|	https://github.com/mate-academy/jv-fruit-shop-tests	|		|
-|	126	|	https://github.com/anupam-kumar-krishnan/Competitive_Programming	|	Negative	|
+|	126	|	https://github.com/anupam-kumar-krishnan/Competitive_Programming	|	Invalid	|
 |	127	|	https://github.com/PrimeAcademy/prime-pw-week-3-assignment-part-3	|		|
 |	128	|	https://github.com/ramonbhb/PullHere	|		|
 |	129	|	https://github.com/ziginsider/rsschool2021-Android-task-randomizer	|		|
 |	130	|	https://github.com/PrimeAcademy/prime-pw-week-5-assignment-part-3	|		|
 |	131	|	https://github.com/mate-academy/jv-logger	|		|
-|	132	|	https://github.com/ISIS1225DEVS/ISIS1225-SampleList	|	Fixed	|
+|	132	|	https://github.com/ISIS1225DEVS/ISIS1225-SampleList	|	Valid - Fixed	|
 |	133	|	https://github.com/stebsnusch/basecamp-javascript	|		|
 |	134	|	https://github.com/wangle1218/KBQA-for-Diagnosis	|		|
 |	135	|	https://github.com/CSE110-SP21/Lab9	|		|
 |	136	|	https://github.com/PrimeAcademy/prime-pw-week-4-assignment-part-1	|		|
 |	137	|	https://github.com/PrimeAcademy/prime-pw-week-5-assignment-part-1	|		|
 |	138	|	https://github.com/Vinayak-VG/SummerSchool-Assignment	|		|
-|	139	|	https://github.com/ISIS1225DEVS/ISIS1225-SampleSorts	|	Fixed	|
+|	139	|	https://github.com/ISIS1225DEVS/ISIS1225-SampleSorts	|	Valid - Fixed	|
 |	140	|	https://github.com/mate-academy/jv-dependency-injection	|		|
 |	141	|	https://github.com/AdaGold/swap-meet	|		|
 |	142	|	https://github.com/Thinkful-Ed/starter-thinkfulbnb	|		|
@@ -152,7 +152,7 @@
 |	150	|	https://github.com/linuxacademy/content-github-actions-deep-dive-lesson	|		|
 |	151	|	https://github.com/mate-academy/jv-jdbc	|		|
 |	152	|	https://github.com/kavyanshpandey/Sneha-cafe-FRONT-END	|		|
-|	153	|	https://github.com/traderjoe-xyz/joe-tokenlists	|	Fixed	|
+|	153	|	https://github.com/traderjoe-xyz/joe-tokenlists	|	Valid - Fixed	|
 |	154	|	https://github.com/Abbie-n/Flutter_1point0	|		|
 |	155	|	https://github.com/harshakshit/cybersecurity-bootcamp-shapeai	|		|
 |	156	|	https://github.com/Robin970822/WorkingTime	|		|
@@ -162,13 +162,13 @@
 |	160	|	https://github.com/fsteamID/RDP-Google-Debian	|		|
 |	161	|	https://github.com/wego-example/podinfo-deploy	|		|
 |	162	|	https://github.com/dicodingacademy/karsajobs	|		|
-|	163	|	https://github.com/ReFil/zmk-config	|	Positive  - accepted	|
+|	163	|	https://github.com/ReFil/zmk-config	|	Valid - accepted	|
 |	164	|	https://github.com/CSE110-SP21/Lab6	|		|
 |	165	|	https://github.com/adrianhajdin/project_cryptoverse	|		|
 |	166	|	https://github.com/dicodingacademy/karsajobs-ui	|		|
 |	167	|	https://github.com/avani112/HacktoberFest2021-1	|	the owners turn issues off for the repo and do not accept contributions or bug reports	|
 |	168	|	https://github.com/Thinkful-Ed/starter-joey-thinkful	|		|
-|	169	|	https://github.com/ISIS1225DEVS/Reto1-Template	|	Fixed	|
+|	169	|	https://github.com/ISIS1225DEVS/Reto1-Template	|	Valid - Fixed	|
 |	170	|	https://github.com/ntrdnm1/gettovds	|		|
 |	171	|	https://github.com/lucasmvnascimento/exercise-redux-thunk	|	the owners turn issues off for the repo and do not accept contributions or bug reports	|
 |	172	|	https://github.com/breatheco-de/exercise-starwars-data-modeling	|		|
@@ -184,17 +184,17 @@
 |	182	|	https://github.com/training-support/FST-M2	|		|
 |	183	|	https://github.com/miladphoenix/NewSirMeti	|		|
 |	184	|	https://github.com/kavyanshpandey/hacktoberfest-2021	|		|
-|	185	|	https://github.com/learn-co-curriculum/phase-3-object-relations-practice-code-challenge-magazines-many-many	|	Positive  - accepted	|
+|	185	|	https://github.com/learn-co-curriculum/phase-3-object-relations-practice-code-challenge-magazines-many-many	|	Valid - accepted	|
 |	186	|	https://github.com/devpavan04/cryptoboys-nft-marketplace	|		|
 |	187	|	https://github.com/Mahesh1256/End-Sem-Advanced-Java-Programming-Practical-	|		|
 |	188	|	https://github.com/AnushkaSamarasinghe/HacktoberFest2021-html-For-SriLankan-tech-geekers	|		|
 |	189	|	https://github.com/MohmedIkram/Hacktoberfest2021	|		|
 |	190	|	https://github.com/PrimeAcademy/prime-pw-week-2-assignment-part-1	|		|
 |	191	|	https://github.com/PrimeAcademy/prime-pw-week-2-assignment-part-2	|		|
-|	192	|	https://github.com/tailwindlabs/tailwindcss-from-zero-to-production	|	Negative	|
+|	192	|	https://github.com/tailwindlabs/tailwindcss-from-zero-to-production	|		|
 |	193	|	https://github.com/sushantchamoli/MOBILE-APPLICATION-DEVELOPMENT	|		|
-|	194	|	https://github.com/Anonymous-ghost/AttackWebFrameworkTools-5.0	|	Negative	|
-|	195	|	https://github.com/mrpkdeveloper/450-DSA-Questions	|	Fixed	|
+|	194	|	https://github.com/Anonymous-ghost/AttackWebFrameworkTools-5.0	|	Invalid	|
+|	195	|	https://github.com/mrpkdeveloper/450-DSA-Questions	|	Valid - Fixed	|
 |	196	|	https://github.com/limaceous-bushwhacker/zspotify	|	the owners turn issues off for the repo and do not accept contributions or bug reports	|
 |	197	|	https://github.com/Bungeetech/internship-test2	|		|
 |	198	|	https://github.com/mayankchaudhary26/HacktoberFest-Practice-2021	|		|
@@ -206,32 +206,32 @@
 |	204	|	https://github.com/Mohamefrtrt/hero-vps-lifetime	|	the owners turn issues off for the repo and do not accept contributions or bug reports	|
 |	205	|	https://github.com/mate-academy/hibernate-user-service-hw	|		|
 |	206	|	https://github.com/hctnm1/Learn-To-Use-Github	|	license added before we reported/ fixed before we reported	|
-|	207	|	https://github.com/ISIS1225DEVS/Reto3-Template	|	Fixed	|
+|	207	|	https://github.com/ISIS1225DEVS/Reto3-Template	|	Valid - Fixed	|
 |	208	|	https://github.com/MrAnonymous09/Hactoberfest-Beginner	|		|
 |	209	|	https://github.com/TdP-2021/GestoreCorsi	|		|
 |	210	|	https://github.com/woowacourse/java-vendingmachine-precourse	|		|
 |	211	|	https://github.com/simaraconceicao/javascript-ii-gama-xp	|		|
 |	212	|	https://github.com/mate-academy/hibernate-shopping-cart-hw	|		|
 |	213	|	https://github.com/mate-academy/hibernate-order-hw	|		|
-|	214	|	https://github.com/ISIS1225DEVS/Reto4-Template	|	Fixed	|
+|	214	|	https://github.com/ISIS1225DEVS/Reto4-Template	|	Valid - Fixed	|
 |	215	|	https://github.com/g2i/test-playground	|		|
-|	216	|	https://github.com/Nice-Keyboards/nice60-zmk-config	|	Positive  - accepted	|
+|	216	|	https://github.com/Nice-Keyboards/nice60-zmk-config	|	Valid - accepted	|
 |	217	|	https://github.com/Sathishzus/solidmusic_rewrite	|	the owners turn issues off for the repo and do not accept contributions or bug reports	|
 |	218	|	https://github.com/mate-academy/jv-spring-rest	|		|
-|	219	|	https://github.com/AngeLouCN/CFPNet	|	Fixed	|
+|	219	|	https://github.com/AngeLouCN/CFPNet	|	Valid - Fixed	|
 |	220	|	https://github.com/rutura/The-C-20-Masterclass-Source-Code	|		|
 |	221	|	https://github.com/InnogeeksOrganization/coderspree	|		|
 |	222	|	https://github.com/HackerUSA-CE/JS-Web-Game-Part-1	|	license added before we reported/ fixed before we reported	|
 |	223	|	https://github.com/SamirGithubaccount/MockPracticalExam	|		|
 |	224	|	https://github.com/pds2-dcc-ufmg/2021-1-exercicio-revisao-refatoracao	|		|
 |	225	|	https://github.com/siamaksade/openshift-gitops-getting-started	|		|
-|	226	|	https://github.com/timerz23/Ngrok-rdp	|	Positive  - accepted	|
+|	226	|	https://github.com/timerz23/Ngrok-rdp	|	Valid - accepted	|
 |	227	|	https://github.com/mate-academy/jv-spring-rest-web-practice	|		|
 |	228	|	https://github.com/pardeep-busibud/Pagination-SearchLibrary	|		|
 |	229	|	https://github.com/sksjed/free_rdp	|	the owners turn issues off for the repo and do not accept contributions or bug reports	|
 |	230	|	https://github.com/HackerUSA-CE/JS-Building-an-Interactive-Map	|	license added before we reported/ fixed before we reported	|
 |	231	|	https://github.com/devclub-iitd/GitAssignment2021	|		|
-|	232	|	https://github.com/WhitePrime/WindowsVPS2021	|	Positive  - accepted	|
+|	232	|	https://github.com/WhitePrime/WindowsVPS2021	|	Valid - accepted	|
 |	233	|	https://github.com/AnjaliAPT/Hactoberfest2021	|		|
 |	234	|	https://github.com/noob-coder123/Genisys	|	the owners turn issues off for the repo and do not accept contributions or bug reports	|
 |	235	|	https://github.com/zapaiamarce/async-promises-desafio	|		|
@@ -245,22 +245,22 @@
 |	243	|	https://github.com/GeekHaven/Aparoksha-Month-Webd	|		|
 |	244	|	https://github.com/kaakaww/vuln_node_express	|		|
 |	245	|	https://github.com/tharsis/testnets	|		|
-|	246	|	https://github.com/LaneSh4d0w/query-streamlink	|	Positive  - accepted	|
+|	246	|	https://github.com/LaneSh4d0w/query-streamlink	|	Valid - accepted	|
 |	247	|	https://github.com/alanbobs999/TopFreeProxies	|	license added before we reported/ fixed before we reported	|
 |	248	|	https://github.com/0xEssential/opensea-discord-bot	|		|
-|	249	|	https://github.com/Rdprepogithub01/Rdp	|	Positive  - accepted	|
+|	249	|	https://github.com/Rdprepogithub01/Rdp	|	Valid - accepted	|
 |	250	|	https://github.com/MidoxBighAmzdad/Windows2019RDP-US	|	the owners turn issues off for the repo and do not accept contributions or bug reports	|
 |	251	|	https://github.com/sermakov/JavaFirstMirea	|		|
 |	252	|	https://github.com/amigoscode/login-registration-backend	|		|
 |	253	|	https://github.com/Ren0503/design-pattern	|		|
 |	254	|	https://github.com/SummerSec/ShiroAttack2	|		|
-|	255	|	https://github.com/sarat9/microservices-architect-config-starter	|	Fixed	|
+|	255	|	https://github.com/sarat9/microservices-architect-config-starter	|	Valid - Fixed	|
 |	256	|	https://github.com/mate-academy/jv-oop-lesson-0	|		|
 |	257	|	https://github.com/upslopeio/express-sample-app	|		|
 |	258	|	https://github.com/rolling-scopes-school/rs.ios.stage-task6	|		|
 |	259	|	https://github.com/joinpursuit/8-0-built-in-methods-lab	|		|
-|	260	|	https://github.com/mouredev/Weekly-Challenge-2022-Swift	|	Fixed	|
-|	261	|	https://github.com/dmalvia/React_Redux_Tutorial	|	Fixed	|
+|	260	|	https://github.com/mouredev/Weekly-Challenge-2022-Swift	|	Valid - Fixed	|
+|	261	|	https://github.com/dmalvia/React_Redux_Tutorial	|	Valid - Fixed	|
 |	262	|	https://github.com/DSC-CETB/SeptoCode-21	|		|
 |	263	|	https://github.com/HackerUSA-CE/JS-Web-Game-Part-3	|	license added before we reported/ fixed before we reported	|
 |	264	|	https://github.com/TdP-2021/Ruzzle	|		|
@@ -277,27 +277,27 @@
 |	275	|	https://github.com/powerlink/PplFinder	|		|
 |	276	|	https://github.com/EvgeniyBon/topjava-1	|	the owners turn issues off for the repo and do not accept contributions or bug reports	|
 |	277	|	https://github.com/amitjuyal/MCAENDTERMEXAM	|		|
-|	278	|	https://github.com/cosmos/chain-registry	|	Positive  - accepted	|
+|	278	|	https://github.com/cosmos/chain-registry	|	Valid - accepted	|
 |	279	|	https://github.com/Heytec/ADS_REV_code	|		|
 |	280	|	https://github.com/divs950/divs950-MCA-2-Computer-Networks-TMC-203	|		|
 |	281	|	https://github.com/sidd-harth/kubernetes-devops-security	|		|
-|	282	|	https://github.com/coders-school/linux	|	Fixed	|
+|	282	|	https://github.com/coders-school/linux	|	Valid - Fixed	|
 |	283	|	https://github.com/forthespada/CS-Books	|		|
-|	284	|	https://github.com/vandadnp/flutter-tips-and-tricks	|	Positive  - accepted	|
+|	284	|	https://github.com/vandadnp/flutter-tips-and-tricks	|	Valid - accepted	|
 |	285	|	https://github.com/BoltzmannEntropy/interviews.ai	|		|
 |	286	|	https://github.com/dreamhead/patterns-of-distributed-systems	|		|
-|	287	|	https://github.com/niespodd/browser-fingerprinting	|	Positive  - accepted	|
-|	288	|	https://github.com/stong/how-to-exploit-a-double-free	|	Negative	|
+|	287	|	https://github.com/niespodd/browser-fingerprinting	|	Valid - accepted	|
+|	288	|	https://github.com/stong/how-to-exploit-a-double-free	|	Invalid	|
 |	289	|	https://github.com/TechXueXi/techxuexi-js	|	the owners turn issues off for the repo and do not accept contributions or bug reports	|
-|	290	|	https://github.com/RimoChan/match-you	|	Negative	|
+|	290	|	https://github.com/RimoChan/match-you	|	Invalid	|
 |	291	|	https://github.com/peng-zhihui/Peak	|		|
 |	292	|	https://github.com/NVlabs/eg3d	|	license added before we reported/ fixed before we reported	|
 |	293	|	https://github.com/6dylan6/jdpro	|		|
 |	294	|	https://github.com/mpcabete/bombcrypto-bot	|		|
 |	295	|	https://github.com/ErickWendel/semana-javascript-expert04	|		|
 |	296	|	https://github.com/Jack-Cherish/quantitative	|		|
-|	297	|	https://github.com/WebDevSimplified/useful-custom-react-hooks	|	Positive  - accepted	|
-|	298	|	https://github.com/AlynxZhou/gnome-shell-extension-inotch	|	Positive  - accepted	|
+|	297	|	https://github.com/WebDevSimplified/useful-custom-react-hooks	|	Valid - accepted	|
+|	298	|	https://github.com/AlynxZhou/gnome-shell-extension-inotch	|	Valid - accepted	|
 |	299	|	https://github.com/ihciah/clean-dns-bpf	|		|
 |	300	|	https://github.com/hongchacha/cartoon	|		|
 |	301	|	https://github.com/mydockfinder/mydockfinder-for-Win10-Win11	|		|
@@ -307,35 +307,35 @@
 |	305	|	https://github.com/ErickWendel/semana-js-expert30	|		|
 |	306	|	https://github.com/KarenOk/whatsapp-web-clone	|		|
 |	307	|	https://github.com/teteusAraujo/KdMeuBichinho	|		|
-|	308	|	https://github.com/lewis6991/impatient.nvim	|	Fixed	|
+|	308	|	https://github.com/lewis6991/impatient.nvim	|	Valid - Fixed	|
 |	309	|	https://github.com/Nafidinara/bot-pancakeswap	|		|
 |	310	|	https://github.com/CCob/BeaconEye	|		|
-|	311	|	https://github.com/dqzg12300/fridaUiTools	|	Positive  - accepted	|
+|	311	|	https://github.com/dqzg12300/fridaUiTools	|	Valid - accepted	|
 |	312	|	https://github.com/mdubourg001/glci	|		|
 |	313	|	https://github.com/lintstar/LSTAR	|		|
 |	314	|	https://github.com/utimur/online-store-full-course	|		|
-|	315	|	https://github.com/bvaughn/planner	|	Fixed	|
-|	316	|	https://github.com/juliourena/SharpNoPSExec	|	Fixed	|
+|	315	|	https://github.com/bvaughn/planner	|	Valid - Fixed	|
+|	316	|	https://github.com/juliourena/SharpNoPSExec	|	Valid - Fixed	|
 |	317	|	https://github.com/zcgonvh/EfsPotato	|		|
 |	318	|	https://github.com/githubvpn007/v2rayNvpn	|		|
 |	319	|	https://github.com/Hzllaga/BT_Panel_Privilege_Escalation	|		|
 |	320	|	https://github.com/bradtraversy/bootstrap-bootcamp-website	|		|
 |	321	|	https://github.com/alexis-regnaud/advanced-react-patterns	|		|
 |	322	|	https://github.com/langjam/jam0001	|		|
-|	323	|	https://github.com/plutooo/nx-btred	|	Negative	|
-|	324	|	https://github.com/The-Learning-And-Vision-Atelier-LAVA/DASR	|	Fixed	|
+|	323	|	https://github.com/plutooo/nx-btred	|	Invalid	|
+|	324	|	https://github.com/The-Learning-And-Vision-Atelier-LAVA/DASR	|	Valid - Fixed	|
 |	325	|	https://github.com/bradtraversy/dj-events-frontend	|	the owners turn issues off for the repo and do not accept contributions or bug reports	|
 |	326	|	https://github.com/nettitude/RunPE	|		|
 |	327	|	https://github.com/karcan/javaBootcamp	|		|
-|	328	|	https://github.com/glibg10b/ltt-linux-challenge-issues	|	Fixed	|
+|	328	|	https://github.com/glibg10b/ltt-linux-challenge-issues	|	Valid - Fixed	|
 |	329	|	https://github.com/Asabeneh/10-days-of-git-and-github	|		|
-|	330	|	https://github.com/pj567/TVMovie	|	Positive  - accepted	|
+|	330	|	https://github.com/pj567/TVMovie	|	Valid - accepted	|
 |	331	|	https://github.com/MuriungiPatrick/Bootstrap-5-portfolio-template	|		|
 |	332	|	https://github.com/samsface/godot-steam-api	|	someone already raised issues:  https://github.com/samsface/godot-steam-api/pull/9 / fixed before we reported	|
-|	333	|	https://github.com/luo3300612/Visualizer	|	Fixed	|
+|	333	|	https://github.com/luo3300612/Visualizer	|	Valid - Fixed	|
 |	334	|	https://github.com/cfs6/AChat	|		|
-|	335	|	https://github.com/KibaeKim/SectorTradingAlgorithm	|	Fixed	|
-|	336	|	https://github.com/p0dalirius/LDAPmonitor	|	Fixed	|
+|	335	|	https://github.com/KibaeKim/SectorTradingAlgorithm	|	Valid - Fixed	|
+|	336	|	https://github.com/p0dalirius/LDAPmonitor	|	Valid - Fixed	|
 |	337	|	https://github.com/folke/twilight.nvim	|		|
 |	338	|	https://github.com/woodpecker-appstore/log4j-payload-generator	|		|
 |	339	|	https://github.com/lab52io/StopDefender	|	someone already raised issue/ fixed before we reported	|
@@ -343,29 +343,29 @@
 |	341	|	https://github.com/dallaslu/penzai-list	|		|
 |	342	|	https://github.com/tr0uble-mAker/POC-bomber	|	license added before we reported/ fixed before we reported	|
 |	343	|	https://github.com/csguide-dabai/interview-guide	|		|
-|	344	|	https://github.com/Barbaross93/Genome	|	Fixed	|
+|	344	|	https://github.com/Barbaross93/Genome	|	Valid - Fixed	|
 |	345	|	https://github.com/RCStep/CSSG	|		|
 |	346	|	https://github.com/qianlongo/fe-handwriting	|		|
-|	347	|	https://github.com/RimoChan/steal_piano	|	Negative	|
+|	347	|	https://github.com/RimoChan/steal_piano	|	Invalid	|
 |	348	|	https://github.com/YinWC/2021hvv_vul	|		|
 |	349	|	https://github.com/gakonst/opensea-rs	|		|
 |	350	|	https://github.com/gisbi-kim/SC-A-LOAM	|		|
-|	351	|	https://github.com/The-DevX-Initiative/RCIG_Coordination_Repo	|	Positive  - accepted	|
+|	351	|	https://github.com/The-DevX-Initiative/RCIG_Coordination_Repo	|	Valid - accepted	|
 |	352	|	https://github.com/trickster0/TartarusGate	|		|
 |	353	|	https://github.com/luruke/human-gpu	|		|
-|	354	|	https://github.com/SaraSoueidan/sarasoueidan.dev	|	Positive  - accepted	|
-|	355	|	https://github.com/brookmiles/freqtrade-stuff	|	Negative	|
+|	354	|	https://github.com/SaraSoueidan/sarasoueidan.dev	|	Valid - accepted	|
+|	355	|	https://github.com/brookmiles/freqtrade-stuff	|	Invalid	|
 |	356	|	https://github.com/A-D-Team/SharpMemshell	|		|
-|	357	|	https://github.com/stevepolitodesign/rails-authentication-from-scratch	|	Positive  - accepted	|
+|	357	|	https://github.com/stevepolitodesign/rails-authentication-from-scratch	|	Valid - accepted	|
 |	358	|	https://github.com/christophrumpel/larastreamers	|		|
 |	359	|	https://github.com/steventroughtonsmith/CatalystControlsGallery	|		|
-|	360	|	https://github.com/abuanwar072/Responsive-and-Animated-Portfolio-Flutter	|	Positive  - accepted	|
+|	360	|	https://github.com/abuanwar072/Responsive-and-Animated-Portfolio-Flutter	|	Valid - accepted	|
 |	361	|	https://github.com/zzsza/Boostcamp-AI-Tech-Product-Serving	|	the owners turn issues off for the repo and do not accept contributions or bug reports	|
 |	362	|	https://github.com/matuzo/DevToolsSnippets	|		|
 |	363	|	https://github.com/CyberPunkMetalHead/Bitcoin-Surge-Trading-Alpha	|		|
 |	364	|	https://github.com/rydercalmdown/package_theft_preventor	|	the owners turn issues off for the repo and do not accept contributions or bug reports	|
-|	365	|	https://github.com/franklbt/RentMyCPU	|	Positive  - accepted	|
-|	366	|	https://github.com/eatonphil/lisp-rosetta-stone	|	Negative	|
+|	365	|	https://github.com/franklbt/RentMyCPU	|	Valid - accepted	|
+|	366	|	https://github.com/eatonphil/lisp-rosetta-stone	|	Invalid	|
 |	367	|	https://github.com/aldonunez/zelda1-disassembly	|		|
 |	368	|	https://github.com/ErickWendel/lives-aquecimento02-javascript-expert	|		|
 |	369	|	https://github.com/jpomykala/awesome-i18n	|	the owners turn issues off for the repo and do not accept contributions or bug reports	|
@@ -374,12 +374,12 @@
 |	372	|	https://github.com/sidpalas/devops-directive-terraform-course	|		|
 |	373	|	https://github.com/jacopotediosi/GoogleDialerMod	|		|
 |	374	|	https://github.com/AntoineW/luge	|		|
-|	375	|	https://github.com/splinetool/react-spline	|	Fixed	|
-|	376	|	https://github.com/hua1995116/360-sneakers-viewer	|	Fixed	|
+|	375	|	https://github.com/splinetool/react-spline	|	Valid - Fixed	|
+|	376	|	https://github.com/hua1995116/360-sneakers-viewer	|	Valid - Fixed	|
 |	377	|	https://github.com/forthespada/CSLearning	|		|
 |	378	|	https://github.com/mikehuang99/wangxin-study	|		|
 |	379	|	https://github.com/makermoekoe/ESP32Picoremote	|	someone already raised issue/ fixed before we reported	|
-|	380	|	https://github.com/optiv/Registry-Recon	|	Fixed	|
+|	380	|	https://github.com/optiv/Registry-Recon	|	Valid - Fixed	|
 |	381	|	https://github.com/waldo-irc/CVE-2021-21551	|		|
 |	382	|	https://github.com/Eddddddddy/T12-PD-SolderingPen	|		|
 |	383	|	https://github.com/zgood9527/sql-update-check	|		|
@@ -400,8 +400,8 @@
 |	398	|	https://github.com/monaGeju/FEShare	|		|
 |	399	|	https://github.com/mikekelly/btc-endgame	|		|
 |	400	|	https://github.com/PAVANINADELLA/DATA-SCIENCE-NOTES	|		|
-|	401	|	https://github.com/Manawyrm/fxIP	|	Positive  - accepted	|
-|	402	|	https://github.com/scandum/gridsort	|	Fixed	|
+|	401	|	https://github.com/Manawyrm/fxIP	|	Valid - accepted	|
+|	402	|	https://github.com/scandum/gridsort	|	Valid - Fixed	|
 |	403	|	https://github.com/uchan-nos/os-from-zero	|		|
 |	404	|	https://github.com/utimur/react-redux-typescript-course	|		|
 |	405	|	https://github.com/shubhamhackz/flutter-ninja	|		|
@@ -415,15 +415,15 @@
 |	413	|	https://github.com/G-Security-Team/GSLibrary	|		|
 |	414	|	https://github.com/zackradisic/aussieplusplus	|	someone already raised issue/ fixed before we reported	|
 |	415	|	https://github.com/khuyentran1401/Efficient_Python_tricks_and_tools_for_data_scientists	|		|
-|	416	|	https://github.com/commit-live-students/Data_Science_Masters_Program_2021	|	Negative	|
+|	416	|	https://github.com/commit-live-students/Data_Science_Masters_Program_2021	|	Invalid	|
 |	417	|	https://github.com/safe6Sec/PentestDB	|		|
-|	418	|	https://github.com/codeedu/imersao-fullstack-fullcycle	|	Negative	|
-|	419	|	https://github.com/0voice/kernel_memory_management	|	Negative	|
-|	420	|	https://github.com/linjc/smooth-signature	|	Fixed	|
-|	421	|	https://github.com/yuesong-feng/30dayMakeCppServer	|	Negative	|
+|	418	|	https://github.com/codeedu/imersao-fullstack-fullcycle	|	Invalid	|
+|	419	|	https://github.com/0voice/kernel_memory_management	|	Invalid	|
+|	420	|	https://github.com/linjc/smooth-signature	|	Valid - Fixed	|
+|	421	|	https://github.com/yuesong-feng/30dayMakeCppServer	|	Invalid	|
 |	422	|	https://github.com/sxyu/volrend	|		|
-|	423	|	https://github.com/nxshell/nxshell	|	Fixed	|
-|	424	|	https://github.com/GoldHEN/GoldHEN	|	Negative	|
+|	423	|	https://github.com/nxshell/nxshell	|	Valid - Fixed	|
+|	424	|	https://github.com/GoldHEN/GoldHEN	|	Invalid	|
 |	425	|	https://github.com/PlummersSoftwareLLC/Primes	|	False positive	|
 |	426	|	https://github.com/bilibili/ailab	|	False positive	|
 |	427	|	https://github.com/orico/www.mlcompendium.com	|	False positive	|
