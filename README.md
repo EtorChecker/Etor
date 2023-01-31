@@ -40,6 +40,7 @@ The replication package is structured as follows:
     |--- LicenseList.txt         The list of license
     |--- LICENSE                 Repo's license
     |--- OntologyNew.PNG         Image for ontology used in Etor
+    |--- Supplementary.pdf       Document which includes SWRL rules and keywords used in our approach
 ```
 
 # Ontology-based approach for issue detection.
