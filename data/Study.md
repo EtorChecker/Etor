@@ -13,7 +13,7 @@
 11	|	https://github.com/JemmaZZ/cc-tweaked-fabric/pull/44	|	(S1)	No attribution to the author in code	|	Source code	|		|
 12	|	https://github.com/apache/incubator-nuttx/pull/2326	|	(S1)	No attribution to the author in code	|	Source code	|		|
 13	|	https://github.com/adoptium/bumblebench/issues/6	|	(S1)	No attribution to the author in code	|	Source code	|		|
-14	|	https://github.com/eren-ck/MultiscaleSnapshots/issues/2	|	(S1)	No attribution to the author in code	|	API/Library/Add-on	|		|
+14	|	https://github.com/eren-ck/MultiscaleSnapshots/issues/2	|	(S1)	No attribution to the author in code	|	External API	|		|
 15	|	https://github.com/OpenTreeMap/otm-core/issues/400	|	(S1)	No attribution to the author in code	|	Source code	|		|
 16	|	https://github.com/AIDude-eng/projection-path-explorer-page/pull/1	|	(S1)	No attribution to the author in code	|	Source code	|		|
 17	|	https://github.com/alkemyTech/OT109-Server/pull/49	|	(S1)	No attribution to the author in code	|	Source code	|	additional link	|
@@ -70,8 +70,8 @@
 68	|	https://github.com/julienrf/play-jsmessages/issues/42	|	(S2)	Soft forking	|	Project	|		|
 69	|	https://github.com/tensorflow/tensorflow/pull/44757	|	(S3)	Plagiarism	|	Source code	|		|
 70	|	https://github.com/CircuitVerse/Interactive-Book/issues/80	|	(S3)	Plagiarism	|	UI	|		|
-71	|	https://github.com/DXHeroes/knowledge-base-content/pull/289	|	(S3)	Plagiarism	|	Database/ Documents	|		|
-72	|	https://github.com/MTJailed/C-Programming-Books/issues/1	|	(S3)	Plagiarism	|	Database/ Documents	|		|
+71	|	https://github.com/DXHeroes/knowledge-base-content/pull/289	|	(S3)	Plagiarism	|	Data	|		|
+72	|	https://github.com/MTJailed/C-Programming-Books/issues/1	|	(S3)	Plagiarism	|	Data	|		|
 73	|	https://github.com/mastodon/mastodon/issues/1105	|	(S3)	Plagiarism	|	Project	|		|
 74	|	https://github.com/apache/incubator-nuttx/pull/3259	|	(S3)	Plagiarism	|	Source code	|		|
 75	|	https://github.com/platzhersh/pacman-canvas/issues/42	|	(S4)	License incompatibility	|	README/ CONTRIBUTING.md	|	additional link	|
@@ -140,22 +140,22 @@
 138	|	https://github.com/iopleke/Minechem/issues/806	|	(S6)	Uninformed License change	|	CHANGELOG	|		|
 139	|	https://github.com/audacity/audacity/issues/1213	|	(S6)	Uninformed License change	|	CHANGELOG	|		|
 140	|	https://github.com/dorimanx/exfat-nofuse/issues/5	|	(S6)	Uninformed License change	|	CHANGELOG	|		|
-141	|	https://github.com/wger-project/wger/issues/266	|	(S7)	Depending on proprietary software	|	API/Library/Add-on	|		|
-142	|	https://github.com/pallupz/covid-vaccine-booking/issues/123	|	(S7)	Depending on proprietary software	|	API/Library/Add-on	|		|
-143	|	https://github.com/andela/wg-fortem/pull/28	|	(S7)	Depending on proprietary software	|	API/Library/Add-on	|		|
-144	|	https://github.com/lutris/lutris/issues/1651	|	(S7)	Depending on proprietary software	|	API/Library/Add-on	|		|
-145	|	https://github.com/andela/wg-june-bunnies/pull/23	|	(S7)	Depending on proprietary software	|	API/Library/Add-on	|		|
-146	|	https://github.com/andela/wg-silicon/pull/28	|	(S7)	Depending on proprietary software	|	API/Library/Add-on	|		|
-147	|	https://github.com/andela/wg-rogue-one/pull/31	|	(S7)	Depending on proprietary software	|	API/Library/Add-on	|		|
-148	|	https://github.com/andela/wg-kalii/pull/26	|	(S7)	Depending on proprietary software	|	API/Library/Add-on	|		|
-149	|	https://github.com/andela/wg-justice-league/pull/20	|	(S7)	Depending on proprietary software	|	API/Library/Add-on	|		|
-150	|	https://github.com/andela/wg-7-horsemen/pull/21	|	(S7)	Depending on proprietary software	|	API/Library/Add-on	|		|
-151	|	https://github.com/webpack/webpack.js.org/pull/3759	|	(S7)	Depending on proprietary software	|	API/Library/Add-on	|		|
-152	|	https://github.com/jmhertlein/MCTowns/issues/82	|	(S7)	Depending on proprietary software	|	API/Library/Add-on	|		|
-153	|	https://github.com/mvysny/aedict/issues/446	|	(S7)	Depending on proprietary software	|	API/Library/Add-on	|		|
-154	|	https://github.com/wireapp/wire-webapp/issues/6063	|	(S7)	Depending on proprietary software	|	API/Library/Add-on	|		|
-155	|	https://github.com/compiler-explorer/compiler-explorer/issues/2078	|	(S7)	Depending on proprietary software	|	API/Library/Add-on	|		|
-156	|	https://github.com/Sanjivkumarroshan/csipsimple/issues/267	|	(S7)	Depending on proprietary software	|	API/Library/Add-on	|		|
+141	|	https://github.com/wger-project/wger/issues/266	|	(S7)	Depending on proprietary software	|	External API	|		|
+142	|	https://github.com/pallupz/covid-vaccine-booking/issues/123	|	(S7)	Depending on proprietary software	|	External API	|		|
+143	|	https://github.com/andela/wg-fortem/pull/28	|	(S7)	Depending on proprietary software	|	External API	|		|
+144	|	https://github.com/lutris/lutris/issues/1651	|	(S7)	Depending on proprietary software	|	External API	|		|
+145	|	https://github.com/andela/wg-june-bunnies/pull/23	|	(S7)	Depending on proprietary software	|	External API	|		|
+146	|	https://github.com/andela/wg-silicon/pull/28	|	(S7)	Depending on proprietary software	|	External API	|		|
+147	|	https://github.com/andela/wg-rogue-one/pull/31	|	(S7)	Depending on proprietary software	|	External API	|		|
+148	|	https://github.com/andela/wg-kalii/pull/26	|	(S7)	Depending on proprietary software	|	External API	|		|
+149	|	https://github.com/andela/wg-justice-league/pull/20	|	(S7)	Depending on proprietary software	|	External API	|		|
+150	|	https://github.com/andela/wg-7-horsemen/pull/21	|	(S7)	Depending on proprietary software	|	External API	|		|
+151	|	https://github.com/webpack/webpack.js.org/pull/3759	|	(S7)	Depending on proprietary software	|	External API	|		|
+152	|	https://github.com/jmhertlein/MCTowns/issues/82	|	(S7)	Depending on proprietary software	|	External API	|		|
+153	|	https://github.com/mvysny/aedict/issues/446	|	(S7)	Depending on proprietary software	|	External API	|		|
+154	|	https://github.com/wireapp/wire-webapp/issues/6063	|	(S7)	Depending on proprietary software	|	External API	|		|
+155	|	https://github.com/compiler-explorer/compiler-explorer/issues/2078	|	(S7)	Depending on proprietary software	|	External API	|		|
+156	|	https://github.com/Sanjivkumarroshan/csipsimple/issues/267	|	(S7)	Depending on proprietary software	|	External API	|		|
 157	|	https://github.com/eslint/eslint/pull/15102	|	(S8)	Self-promotion	|	PR/Issue comments	|		|
 158	|	https://github.com/oceanbase/oceanbase/issues/422	|	(S8)	Self-promotion	|	PR/Issue comments	|		|
 159	|	https://github.com/brainflow-dev/brainflow/issues/246	|	(S8)	Self-promotion	|	PR/Issue comments	|		|
@@ -174,10 +174,10 @@
 172	|	https://github.com/jmollan/support-tools/issues/58	|	(S9)	Unmaintained project with paid service	|	Release history	|		|
 173	|	https://github.com/Krizzel87/Oledterm_SH1106/issues/1	|	(S9)	Unmaintained project with paid service	|	Release history	|		|
 174	|	https://github.com/Mach5/supersonic/issues/88	|	(S9)	Unmaintained project with paid service	|	Release history	|		|
-175	|	https://github.com/jspenguin2017/Snippets/issues/3	|	(S10)	Vulnerable code/API	|	API/Library/Add-on	|		|
-176	|	https://github.com/flyingsaucerproject/flyingsaucer/pull/123	|	(S10)	Vulnerable code/API	|	API/Library/Add-on	|		|
-177	|	https://github.com/cheat-engine/cheat-engine/issues/816	|	(S10)	Vulnerable code/API	|	API/Library/Add-on	|		|
-178	|	https://github.com/openSUSE/openSUSE-docs-revamped-temp/issues/17	|	(S10)	Vulnerable code/API	|	API/Library/Add-on	|		|
+175	|	https://github.com/jspenguin2017/Snippets/issues/3	|	(S10)	Vulnerable code/API	|	External API	|		|
+176	|	https://github.com/flyingsaucerproject/flyingsaucer/pull/123	|	(S10)	Vulnerable code/API	|	External API	|		|
+177	|	https://github.com/cheat-engine/cheat-engine/issues/816	|	(S10)	Vulnerable code/API	|	External API	|		|
+178	|	https://github.com/openSUSE/openSUSE-docs-revamped-temp/issues/17	|	(S10)	Vulnerable code/API	|	External API	|		|
 179	|	https://github.com/wifiphisher/wifiphisher/issues/519	|	(S10)	Vulnerable code/API	|	Source code	|		|
 180	|	https://github.com/cpriest/SnapLinksPlus/issues/281	|	(S10)	Vulnerable code/API	|	Source code	|		|
 181	|	https://github.com/qbittorrent/qBittorrent/issues/3453	|	(S10)	Vulnerable code/API	|	Source code	|		|
@@ -199,11 +199,11 @@
 197	|	https://github.com/soham96/AlpacaBot/pull/3	|	(S10)	Vulnerable code/API	|	Source code	|		|
 198	|	https://github.com/Hylozoic/hylo-evo/issues/940	|	(S10)	Vulnerable code/API	|	Source code	|		|
 199	|	https://github.com/vsjha18/nsetools/issues/23	|	(S10)	Vulnerable code/API	|	Source code	|		|
-200	|	https://github.com/Theano/Theano/pull/6	|	(S10)	Vulnerable code/API	|	PR/Issue reviews	|		|
-201	|	https://github.com/gantoreno/bango/issues/1	|	(S10)	Vulnerable code/API	|	Release history	|		|
+200	|	https://github.com/Theano/Theano/pull/6	|	(S10)	Vulnerable code/API	|	Source code	|		|
+201	|	https://github.com/gantoreno/bango/issues/1	|	(S10)	Vulnerable code/API	|	Source code	|		|
 202	|	https://github.com/eofs/aws/issues/3	|	(S11)	Naming confusion	|	Source code	|		|
 203	|	https://github.com/click-llc/click-integration-django/issues/1	|	(S11)	Naming confusion	|	Source code	|		|
-204	|	https://github.com/utsaslab/pebblesdb/pull/1	|	(S11)	Naming confusion	|	Database/ Documents	|		|
+204	|	https://github.com/utsaslab/pebblesdb/pull/1	|	(S11)	Naming confusion	|	Data	|		|
 205	|	https://github.com/dotnet/maui/issues/35	|	(S11)	Naming confusion	|	Product name	|		|
 206	|	https://github.com/pma/amqp/issues/7	|	(S11)	Naming confusion	|	Product name	|		|
 207	|	https://github.com/jsonapi-serializer/jsonapi-serializer/issues/81	|	(S11)	Naming confusion	|	Source code	|		|
@@ -224,19 +224,19 @@
 222	|	https://github.com/golang/go/issues/9	|	(S11)	Naming confusion	|	Product name	|		|
 223	|	https://github.com/keredson/peewee/issues/2	|	(S12)	Closing issue/PR without explanation	|	PR/Issue comments	|		|
 224	|	https://github.com/SheetJS/sheetjs/issues/2095	|	(S12)	Closing issue/PR without explanation	|	PR/Issue comments	|		|
-225	|	https://github.com/py2neo-org/py2neo/pull/864	|	(S12)	Closing issue/PR without explanation	|	PR/Issue reviews	|		|
+225	|	https://github.com/py2neo-org/py2neo/pull/864	|	(S12)	Closing issue/PR without explanation	|	PR/Issue code review	|		|
 226	|	https://github.com/tensorflow/datasets/issues/1437	|	(S12)	Closing issue/PR without explanation	|	PR/Issue comments	|		|
 227	|	https://github.com/aseprite/aseprite/issues/2679	|	(S12)	Closing issue/PR without explanation	|	PR/Issue comments	|		|
 228	|	https://github.com/react-component/select/issues/41	|	(S12)	Closing issue/PR without explanation	|	PR/Issue comments	|		|
 229	|	https://github.com/monero-project/monero/issues/5942	|	(S12)	Closing issue/PR without explanation	|	PR/Issue comments	|		|
 230	|	https://github.com/code-terminator/invariant_rationalization/issues/2	|	(S12)	Closing issue/PR without explanation	|	PR/Issue comments	|		|
 231	|	https://github.com/nagdevAmruthnath/Predictive-Maintenance/issues/3	|	(S12)	Closing issue/PR without explanation	|	PR/Issue comments	|		|
-232	|	https://github.com/AdguardTeam/AdguardFilters/pull/78044	|	(S12)	Closing issue/PR without explanation	|	PR/Issue reviews	|		|
+232	|	https://github.com/AdguardTeam/AdguardFilters/pull/78044	|	(S12)	Closing issue/PR without explanation	|	PR/Issue code review	|		|
 233	|	https://github.com/AbsInt/CompCert/issues/391	|	(S12)	Closing issue/PR without explanation	|	PR/Issue comments	|		|
 234	|	https://github.com/jridgewell/Unlock/issues/9	|	(S12)	Closing issue/PR without explanation	|	PR/Issue comments	|		|
-235	|	https://github.com/twbs/bootstrap/issues/5632	|	(S12)	Closing issue/PR without explanation	|	PR/Issue reviews	|		|
-236	|	https://github.com/asorici/JaCaMo-R-Landri/issues/41	|	(S12)	Closing issue/PR without explanation	|	PR/Issue reviews	|		|
-237	|	https://github.com/MonoGame/MonoGame/pull/1429	|	(S12)	Closing issue/PR without explanation	|	PR/Issue reviews	|		|
+235	|	https://github.com/twbs/bootstrap/issues/5632	|	(S12)	Closing issue/PR without explanation	|	PR/Issue code review	|		|
+236	|	https://github.com/asorici/JaCaMo-R-Landri/issues/41	|	(S12)	Closing issue/PR without explanation	|	PR/Issue code review	|		|
+237	|	https://github.com/MonoGame/MonoGame/pull/1429	|	(S12)	Closing issue/PR without explanation	|	PR/Issue code review	|		|
 238	|	https://github.com/ugroot/GROOT/pull/1	|	(S13)	Offensive language	|	Source code	|		|
 239	|	https://github.com/NetHack/NetHack/issues/359	|	(S13)	Offensive language	|	UI	|		|
 240	|	https://github.com/inclusive-teams/the-inclusive-team-tests/issues/8	|	(S13)	Offensive language	|	README/ CONTRIBUTING.md	|		|
@@ -287,29 +287,29 @@
 285	|	https://github.com/Homebrew/homebrew-cask/issues/104772	|	(S15)	Privacy Violation	|	Source code	|		|
 286	|	https://github.com/dzone/osqa/pull/84	|	(S15)	Privacy Violation	|	Source code	|		|
 287	|	https://github.com/Xuphey/smt2/issues/39	|	(S15)	Privacy Violation	|	Software feature	|		|
-288	|	https://github.com/suttacentral/suttacentral/issues/1613	|	(S15)	Privacy Violation	|	API/Library/Add-on	|		|
+288	|	https://github.com/suttacentral/suttacentral/issues/1613	|	(S15)	Privacy Violation	|	External API	|		|
 289	|	https://github.com/netlify/cli/issues/739	|	(S15)	Privacy Violation	|	Source code	|		|
 290	|	https://github.com/netlify/cli/issues/737	|	(S15)	Privacy Violation	|	Configuration file	|		|
-291	|	https://github.com/hensm/disable_tab_detach/issues/3	|	(S15)	Privacy Violation	|	API/Library/Add-on	|		|
+291	|	https://github.com/hensm/disable_tab_detach/issues/3	|	(S15)	Privacy Violation	|	External API	|		|
 292	|	https://github.com/home-assistant/home-assistant.io/issues/18753	|	(S15)	Privacy Violation	|	Source code	|		|
-293	|	https://github.com/mimblewimble/site/issues/191	|	(S15)	Privacy Violation	|	API/Library/Add-on	|		|
-294	|	https://github.com/privacytools/privacytools.io/issues/374	|	(S15)	Privacy Violation	|	API/Library/Add-on	|		|
-295	|	https://github.com/rdmenezes/synecdoche/issues/9	|	(S15)	Privacy Violation	|	API/Library/Add-on	|		|
+293	|	https://github.com/mimblewimble/site/issues/191	|	(S15)	Privacy Violation	|	External API	|		|
+294	|	https://github.com/privacytools/privacytools.io/issues/374	|	(S15)	Privacy Violation	|	External API	|		|
+295	|	https://github.com/rdmenezes/synecdoche/issues/9	|	(S15)	Privacy Violation	|	External API	|		|
 296	|	https://github.com/bitwarden/desktop/issues/552	|	(S15)	Privacy Violation	|	Software feature	|		|
-297	|	https://github.com/caprover/caprover/issues/553	|	(S15)	Privacy Violation	|	API/Library/Add-on	|		|
+297	|	https://github.com/caprover/caprover/issues/553	|	(S15)	Privacy Violation	|	External API	|		|
 298	|	https://github.com/atom/atom/issues/20182	|	(S15)	Privacy Violation	|	Source code	|		|
-299	|	https://github.com/pixelfed/pixelfed/issues/1140	|	(S15)	Privacy Violation	|	API/Library/Add-on	|		|
+299	|	https://github.com/pixelfed/pixelfed/issues/1140	|	(S15)	Privacy Violation	|	External API	|		|
 300	|	https://github.com/textbrowser/dooble/issues/23	|	(S15)	Privacy Violation	|	Source code	|		|
 301	|	https://github.com/manojVivek/medium-unlimited/issues/32	|	(S15)	Privacy Violation	|	Source code	|		|
 302	|	https://github.com/mobbler/mobbler/issues/262	|	(S15)	Privacy Violation	|	Software feature	|		|
 303	|	https://github.com/katzwebservices/Contact-Form-7-Newsletter/issues/79	|	(S15)	Privacy Violation	|	UI	|		|
-304	|	https://github.com/GoteoFoundation/goteo/issues/151	|	(S15)	Privacy Violation	|	API/Library/Add-on	|		|
-305	|	https://github.com/arcticicestudio/nord-docs/issues/195	|	(S15)	Privacy Violation	|	API/Library/Add-on	|		|
+304	|	https://github.com/GoteoFoundation/goteo/issues/151	|	(S15)	Privacy Violation	|	External API	|		|
+305	|	https://github.com/arcticicestudio/nord-docs/issues/195	|	(S15)	Privacy Violation	|	External API	|		|
 306	|	https://github.com/joshbalfour/disable-scroll-jacking/issues/102	|	(S15)	Privacy Violation	|	Source code	|		|
 307	|	https://github.com/balena-io/etcher/issues/2977	|	(S15)	Privacy Violation	|	UI	|		|
 308	|	https://github.com/mozilla/pdf.js/issues/7699	|	(S15)	Privacy Violation	|	UI	|		|
 309	|	https://github.com/less/less.js/issues/3355	|	(S15)	Privacy Violation	|	Website	|		|
-310	|	https://github.com/balena-io/etcher/issues/2057	|	(S15)	Privacy Violation	|	API/Library/Add-on	|		|
+310	|	https://github.com/balena-io/etcher/issues/2057	|	(S15)	Privacy Violation	|	External API	|		|
 311	|	https://github.com/balena-io/etcher/issues/1718	|	(S15)	Privacy Violation	|	Source code	|		|
 312	|	https://github.com/atom/metrics/pull/54	|	(S15)	Privacy Violation	|	UI	|		|
 313	|	https://github.com/Curvytron/curvytron/pull/148	|	(S15)	Privacy Violation	|	Software feature	|		|
