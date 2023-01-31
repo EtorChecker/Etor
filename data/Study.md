@@ -1,20 +1,20 @@
 |S/N|Link|Type|Artifact|Remarks|									
 |:-----:|:-------:|:-------:|:-------:|:-------:|									
-1	|	https://github.com/keredson/peewee/issues/2	|	Closing issue/PR without explanation/feedback for a decision	|	PR/Issue comments	|		|
-2	|	https://github.com/SheetJS/sheetjs/issues/2095	|	Closing issue/PR without explanation/feedback for a decision	|	PR/Issue comments	|		|
-3	|	https://github.com/py2neo-org/py2neo/pull/864	|	Closing issue/PR without explanation/feedback for a decision	|	PR/Issue reviews	|		|
-4	|	https://github.com/tensorflow/datasets/issues/1437	|	Closing issue/PR without explanation/feedback for a decision	|	PR/Issue comments	|		|
-5	|	https://github.com/aseprite/aseprite/issues/2679	|	Closing issue/PR without explanation/feedback for a decision	|	PR/Issue comments	|		|
-6	|	https://github.com/react-component/select/issues/41	|	Closing issue/PR without explanation/feedback for a decision	|	PR/Issue comments	|		|
-7	|	https://github.com/monero-project/monero/issues/5942	|	Closing issue/PR without explanation/feedback for a decision	|	PR/Issue comments	|		|
-8	|	https://github.com/code-terminator/invariant_rationalization/issues/2	|	Closing issue/PR without explanation/feedback for a decision	|	PR/Issue comments	|		|
-9	|	https://github.com/nagdevAmruthnath/Predictive-Maintenance/issues/3	|	Closing issue/PR without explanation/feedback for a decision	|	PR/Issue comments	|		|
-10	|	https://github.com/AdguardTeam/AdguardFilters/pull/78044	|	Closing issue/PR without explanation/feedback for a decision	|	PR/Issue reviews	|		|
-11	|	https://github.com/AbsInt/CompCert/issues/391	|	Closing issue/PR without explanation/feedback for a decision	|	PR/Issue comments	|		|
-12	|	https://github.com/jridgewell/Unlock/issues/9	|	Closing issue/PR without explanation/feedback for a decision	|	PR/Issue comments	|		|
-13	|	https://github.com/twbs/bootstrap/issues/5632	|	Closing issue/PR without explanation/feedback for a decision	|	PR/Issue reviews	|		|
-14	|	https://github.com/asorici/JaCaMo-R-Landri/issues/41	|	Closing issue/PR without explanation/feedback for a decision	|	PR/Issue reviews	|		|
-15	|	https://github.com/MonoGame/MonoGame/pull/1429	|	Closing issue/PR without explanation/feedback for a decision	|	PR/Issue reviews	|		|
+1	|	https://github.com/keredson/peewee/issues/2	|	Closing issue/PR without explanation	|	PR/Issue comments	|		|
+2	|	https://github.com/SheetJS/sheetjs/issues/2095	|	Closing issue/PR without explanation	|	PR/Issue comments	|		|
+3	|	https://github.com/py2neo-org/py2neo/pull/864	|	Closing issue/PR without explanation	|	PR/Issue reviews	|		|
+4	|	https://github.com/tensorflow/datasets/issues/1437	|	Closing issue/PR without explanation	|	PR/Issue comments	|		|
+5	|	https://github.com/aseprite/aseprite/issues/2679	|	Closing issue/PR without explanation	|	PR/Issue comments	|		|
+6	|	https://github.com/react-component/select/issues/41	|	Closing issue/PR without explanation	|	PR/Issue comments	|		|
+7	|	https://github.com/monero-project/monero/issues/5942	|	Closing issue/PR without explanation	|	PR/Issue comments	|		|
+8	|	https://github.com/code-terminator/invariant_rationalization/issues/2	|	Closing issue/PR without explanation	|	PR/Issue comments	|		|
+9	|	https://github.com/nagdevAmruthnath/Predictive-Maintenance/issues/3	|	Closing issue/PR without explanation	|	PR/Issue comments	|		|
+10	|	https://github.com/AdguardTeam/AdguardFilters/pull/78044	|	Closing issue/PR without explanation	|	PR/Issue reviews	|		|
+11	|	https://github.com/AbsInt/CompCert/issues/391	|	Closing issue/PR without explanation	|	PR/Issue comments	|		|
+12	|	https://github.com/jridgewell/Unlock/issues/9	|	Closing issue/PR without explanation	|	PR/Issue comments	|		|
+13	|	https://github.com/twbs/bootstrap/issues/5632	|	Closing issue/PR without explanation	|	PR/Issue reviews	|		|
+14	|	https://github.com/asorici/JaCaMo-R-Landri/issues/41	|	Closing issue/PR without explanation	|	PR/Issue reviews	|		|
+15	|	https://github.com/MonoGame/MonoGame/pull/1429	|	Closing issue/PR without explanation	|	PR/Issue reviews	|		|
 16	|	https://github.com/wger-project/wger/issues/266	|	Depending on proprietary software	|	API/Library/Add-on	|		|
 17	|	https://github.com/pallupz/covid-vaccine-booking/issues/123	|	Depending on proprietary software	|	API/Library/Add-on	|		|
 18	|	https://github.com/andela/wg-fortem/pull/28	|	Depending on proprietary software	|	API/Library/Add-on	|		|
@@ -31,32 +31,32 @@
 29	|	https://github.com/wireapp/wire-webapp/issues/6063	|	Depending on proprietary software	|	API/Library/Add-on	|		|
 30	|	https://github.com/compiler-explorer/compiler-explorer/issues/2078	|	Depending on proprietary software	|	API/Library/Add-on	|		|
 31	|	https://github.com/Sanjivkumarroshan/csipsimple/issues/267	|	Depending on proprietary software	|	API/Library/Add-on	|		|
-32	|	https://github.com/platzhersh/pacman-canvas/issues/42	|	License Inconsistency	|	README/ CONTRIBUTING.md	|	additional link	|
-33	|	https://github.com/mpdf/mpdf/issues/15	|	License Inconsistency	|	Source code	|		|
-34	|	https://github.com/sentialx/multrin/issues/46	|	License Inconsistency	|	Legalese	|		|
-35	|	https://github.com/graphql/graphql-spec/issues/351	|	License Inconsistency	|	Legalese	|		|
-36	|	https://github.com/dotnet/AspNetCore.Docs/issues/8592	|	License Inconsistency	|	Website	|		|
-37	|	https://github.com/athanclark/purescript-bignumber/issues/1	|	License Inconsistency	|	Source code	|	additional link	|
-38	|	https://github.com/litterGuy/chia_utils/issues/1	|	License Inconsistency	|	Legalese	|		|
-39	|	https://github.com/trys/sergey/issues/66	|	License Inconsistency	|	Configuration file	|	additional link	|
-40	|	https://github.com/dlang-community/dsymbol/issues/174	|	License Inconsistency	|	Source code	|	additional link	|
-41	|	https://github.com/EdReingold/calendar-code2/pull/1	|	License Inconsistency	|	Source code	|	additional link	|
-42	|	https://github.com/BrooksYang/chia-utils/issues/2	|	License Inconsistency	|	Legalese	|		|
-43	|	https://github.com/kdl-org/kdl-rs/issues/20	|	License Inconsistency	|	Configuration file	|	additional link	|
-44	|	https://github.com/elementary/portals/issues/30	|	License Inconsistency	|	Source code	|	additional link	|
-45	|	https://github.com/mariushelf/graphlib_backport/issues/2	|	License Inconsistency	|	Legalese	|	additional link	|
-46	|	https://github.com/vercel/hyper/issues/3358	|	License Inconsistency	|	Legalese	|	additional link	|
-47	|	https://github.com/douglascrockford/JSMin/issues/7	|	License Inconsistency	|	Source code	|		|
-48	|	https://github.com/blasten/turn.js/issues/548	|	License Inconsistency	|	Legalese	|		|
-49	|	https://github.com/raisely/NoHarm/pull/27	|	License Inconsistency	|	README/ CONTRIBUTING.md	|		|
-50	|	https://github.com/n8n-io/n8n/issues/40	|	License Inconsistency	|	README/ CONTRIBUTING.md	|		|
-51	|	https://github.com/Chad414/VIPER_Example/issues/1	|	License Inconsistency	|	Operating system	|		|
-52	|	https://github.com/natmlx/NatML-Py/issues/1	|	License Inconsistency	|	Source code	|		|
-53	|	https://github.com/uutils/coreutils/issues/1781	|	License Inconsistency	|	README/ CONTRIBUTING.md	|		|
-54	|	https://github.com/cheesecakeufo/komorebi/issues/239	|	License Inconsistency	|	Legalese	|	additional link	|
-55	|	https://github.com/TandoorRecipes/recipes/issues/238	|	License Inconsistency	|	Legalese	|		|
-56	|	https://github.com/eclipse-ee4j/grizzly/issues/620	|	License Inconsistency	|	Configuration file	|	additional link	|
-57	|	https://github.com/t3chnoboy/thepiratebay/issues/123	|	License Inconsistency	|	Image	|		|
+32	|	https://github.com/platzhersh/pacman-canvas/issues/42	|	License incompatibility	|	README/ CONTRIBUTING.md	|	additional link	|
+33	|	https://github.com/mpdf/mpdf/issues/15	|	License incompatibility	|	Source code	|		|
+34	|	https://github.com/sentialx/multrin/issues/46	|	License incompatibility	|	Legalese	|		|
+35	|	https://github.com/graphql/graphql-spec/issues/351	|	License incompatibility	|	Legalese	|		|
+36	|	https://github.com/dotnet/AspNetCore.Docs/issues/8592	|	License incompatibility	|	Website	|		|
+37	|	https://github.com/athanclark/purescript-bignumber/issues/1	|	License incompatibility	|	Source code	|	additional link	|
+38	|	https://github.com/litterGuy/chia_utils/issues/1	|	License incompatibility	|	Legalese	|		|
+39	|	https://github.com/trys/sergey/issues/66	|	License incompatibility	|	Configuration file	|	additional link	|
+40	|	https://github.com/dlang-community/dsymbol/issues/174	|	License incompatibility	|	Source code	|	additional link	|
+41	|	https://github.com/EdReingold/calendar-code2/pull/1	|	License incompatibility	|	Source code	|	additional link	|
+42	|	https://github.com/BrooksYang/chia-utils/issues/2	|	License incompatibility	|	Legalese	|		|
+43	|	https://github.com/kdl-org/kdl-rs/issues/20	|	License incompatibility	|	Configuration file	|	additional link	|
+44	|	https://github.com/elementary/portals/issues/30	|	License incompatibility	|	Source code	|	additional link	|
+45	|	https://github.com/mariushelf/graphlib_backport/issues/2	|	License incompatibility	|	Legalese	|	additional link	|
+46	|	https://github.com/vercel/hyper/issues/3358	|	License incompatibility	|	Legalese	|	additional link	|
+47	|	https://github.com/douglascrockford/JSMin/issues/7	|	License incompatibility	|	Source code	|		|
+48	|	https://github.com/blasten/turn.js/issues/548	|	License incompatibility	|	Legalese	|		|
+49	|	https://github.com/raisely/NoHarm/pull/27	|	License incompatibility	|	README/ CONTRIBUTING.md	|		|
+50	|	https://github.com/n8n-io/n8n/issues/40	|	License incompatibility	|	README/ CONTRIBUTING.md	|		|
+51	|	https://github.com/Chad414/VIPER_Example/issues/1	|	License incompatibility	|	Operating system	|		|
+52	|	https://github.com/natmlx/NatML-Py/issues/1	|	License incompatibility	|	Source code	|		|
+53	|	https://github.com/uutils/coreutils/issues/1781	|	License incompatibility	|	README/ CONTRIBUTING.md	|		|
+54	|	https://github.com/cheesecakeufo/komorebi/issues/239	|	License incompatibility	|	Legalese	|	additional link	|
+55	|	https://github.com/TandoorRecipes/recipes/issues/238	|	License incompatibility	|	Legalese	|		|
+56	|	https://github.com/eclipse-ee4j/grizzly/issues/620	|	License incompatibility	|	Configuration file	|	additional link	|
+57	|	https://github.com/t3chnoboy/thepiratebay/issues/123	|	License incompatibility	|	Image	|		|
 58	|	https://github.com/eofs/aws/issues/3	|	Naming confusion	|	Source code	|		|
 59	|	https://github.com/click-llc/click-integration-django/issues/1	|	Naming confusion	|	Source code	|		|
 60	|	https://github.com/utsaslab/pebblesdb/pull/1	|	Naming confusion	|	Database/ Documents	|		|
@@ -127,37 +127,37 @@
 125	|	https://github.com/a-poor/golist/pull/26	|	No attribution to the author in code	|	Source code	|	additional link	|
 126	|	https://github.com/galaxyproject/ansible-galaxy/pull/142	|	No attribution to the author in code	|	Source code	|	additional link	|
 127	|	https://github.com/datemoon/ASR-decoder/issues/3	|	No attribution to the author in code	|	Source code	|		|
-128	|	https://github.com/pkalogiros/AudioMass/issues/1	|	No license provided for public repository	|	Legalese	|		|
-129	|	https://github.com/yiotro/Antiyoy/issues/83	|	No license provided for public repository	|	Legalese	|		|
-130	|	https://github.com/ethanlee16/pixelclubs.org/issues/2	|	No license provided for public repository	|	Legalese	|		|
-131	|	https://github.com/apollo-ng/dspace-app-apollong/issues/59	|	No license provided for public repository	|	Legalese	|		|
-132	|	https://github.com/mdbootstrap/mdb-ui-kit/issues/410	|	No license provided for public repository	|	Legalese	|		|
-133	|	https://github.com/Xyl2k/TSA-Travel-Sentry-master-keys/issues/4	|	No license provided for public repository	|	Legalese	|		|
-134	|	https://github.com/neveragaindottech/neveragaindottech.github.io/issues/487	|	No license provided for public repository	|	Legalese	|		|
-135	|	https://github.com/6o6o/fft-descreen/issues/3	|	No license provided for public repository	|	Legalese	|		|
-136	|	https://github.com/softwareunderground/awesome-open-geoscience/issues/51	|	No license provided for public repository	|	Legalese	|		|
-137	|	https://github.com/GrapheneOS/os-issue-tracker/issues/109	|	No license provided for public repository	|	Legalese	|		|
-138	|	https://github.com/felixfbecker/svg-screenshots/issues/80	|	No license provided for public repository	|	Legalese	|		|
-139	|	https://github.com/groupgets/purethermal1-uvc-capture/issues/59	|	No license provided for public repository	|	Legalese	|		|
-140	|	https://github.com/bennett39/drf_tutorial/issues/3	|	No license provided for public repository	|	Legalese	|	additional link	|
-141	|	https://github.com/dacatchman/pixi-planckjs-demo/issues/2	|	No license provided for public repository	|	Legalese	|	additional link	|
-142	|	https://github.com/Schm1tz1/ESPressIoT/issues/17	|	No license provided for public repository	|	Legalese	|	additional link	|
-143	|	https://github.com/ZhangPHEngr/Kalman-in-MOT/issues/2	|	No license provided for public repository	|	Legalese	|	additional link	|
-144	|	https://github.com/Evergrow/JCST_NIvsCG/issues/3	|	No license provided for public repository	|	Legalese	|	additional link	|
-145	|	https://github.com/Dooskington/FighterDude2-RefactoringKata/issues/1	|	No license provided for public repository	|	Legalese	|	additional link	|
-146	|	https://github.com/chr15m/DoodleCSS/issues/2	|	No license provided for public repository	|	Legalese	|	additional link	|
-147	|	https://github.com/Neo23x0/log4shell-detector/issues/24	|	No license provided for public repository	|	Legalese	|	additional link	|
-148	|	https://github.com/So-chiru/isegye-front/issues/1	|	No license provided for public repository	|	Legalese	|	additional link	|
-149	|	https://github.com/Adikso/minecraft-log4j-honeypot/issues/5	|	No license provided for public repository	|	Legalese	|	additional link	|
-150	|	https://github.com/spencertipping/caterwaul/issues/2	|	No license provided for public repository	|	Legalese	|	additional link	|
-151	|	https://github.com/aquasecurity/defsec/issues/32	|	No license provided for public repository	|	Legalese	|	additional link	|
-152	|	https://github.com/UCyborg/LegacyD3DResolutionHack/issues/7	|	No license provided for public repository	|	Legalese	|	additional link	|
-153	|	https://github.com/openai/glide-text2im/issues/3	|	No license provided for public repository	|	Legalese	|	additional link	|
-154	|	https://github.com/cometchat-pro/react-native-chat-app/issues/51	|	No license provided for public repository	|	Legalese	|	additional link	|
-155	|	https://github.com/MRGRD56/ConsolePassword/issues/1	|	No license provided for public repository	|	Legalese	|	additional link	|
-156	|	https://github.com/OmarEmaraDev/gtk-text-editor/issues/11	|	No license provided for public repository	|	Legalese	|	additional link	|
-157	|	https://github.com/censorship-no/ceno-website/issues/1	|	No license provided for public repository	|	Legalese	|		|
-158	|	https://github.com/adamian98/pulse/issues/6	|	No license provided for public repository	|	Legalese	|	additional link	|
+128	|	https://github.com/pkalogiros/AudioMass/issues/1	|	No license provided in public repository	|	Legalese	|		|
+129	|	https://github.com/yiotro/Antiyoy/issues/83	|	No license provided in public repository	|	Legalese	|		|
+130	|	https://github.com/ethanlee16/pixelclubs.org/issues/2	|	No license provided in public repository	|	Legalese	|		|
+131	|	https://github.com/apollo-ng/dspace-app-apollong/issues/59	|	No license provided in public repository	|	Legalese	|		|
+132	|	https://github.com/mdbootstrap/mdb-ui-kit/issues/410	|	No license provided in public repository	|	Legalese	|		|
+133	|	https://github.com/Xyl2k/TSA-Travel-Sentry-master-keys/issues/4	|	No license provided in public repository	|	Legalese	|		|
+134	|	https://github.com/neveragaindottech/neveragaindottech.github.io/issues/487	|	No license provided in public repository	|	Legalese	|		|
+135	|	https://github.com/6o6o/fft-descreen/issues/3	|	No license provided in public repository	|	Legalese	|		|
+136	|	https://github.com/softwareunderground/awesome-open-geoscience/issues/51	|	No license provided in public repository	|	Legalese	|		|
+137	|	https://github.com/GrapheneOS/os-issue-tracker/issues/109	|	No license provided in public repository	|	Legalese	|		|
+138	|	https://github.com/felixfbecker/svg-screenshots/issues/80	|	No license provided in public repository	|	Legalese	|		|
+139	|	https://github.com/groupgets/purethermal1-uvc-capture/issues/59	|	No license provided in public repository	|	Legalese	|		|
+140	|	https://github.com/bennett39/drf_tutorial/issues/3	|	No license provided in public repository	|	Legalese	|	additional link	|
+141	|	https://github.com/dacatchman/pixi-planckjs-demo/issues/2	|	No license provided in public repository	|	Legalese	|	additional link	|
+142	|	https://github.com/Schm1tz1/ESPressIoT/issues/17	|	No license provided in public repository	|	Legalese	|	additional link	|
+143	|	https://github.com/ZhangPHEngr/Kalman-in-MOT/issues/2	|	No license provided in public repository	|	Legalese	|	additional link	|
+144	|	https://github.com/Evergrow/JCST_NIvsCG/issues/3	|	No license provided in public repository	|	Legalese	|	additional link	|
+145	|	https://github.com/Dooskington/FighterDude2-RefactoringKata/issues/1	|	No license provided in public repository	|	Legalese	|	additional link	|
+146	|	https://github.com/chr15m/DoodleCSS/issues/2	|	No license provided in public repository	|	Legalese	|	additional link	|
+147	|	https://github.com/Neo23x0/log4shell-detector/issues/24	|	No license provided in public repository	|	Legalese	|	additional link	|
+148	|	https://github.com/So-chiru/isegye-front/issues/1	|	No license provided in public repository	|	Legalese	|	additional link	|
+149	|	https://github.com/Adikso/minecraft-log4j-honeypot/issues/5	|	No license provided in public repository	|	Legalese	|	additional link	|
+150	|	https://github.com/spencertipping/caterwaul/issues/2	|	No license provided in public repository	|	Legalese	|	additional link	|
+151	|	https://github.com/aquasecurity/defsec/issues/32	|	No license provided in public repository	|	Legalese	|	additional link	|
+152	|	https://github.com/UCyborg/LegacyD3DResolutionHack/issues/7	|	No license provided in public repository	|	Legalese	|	additional link	|
+153	|	https://github.com/openai/glide-text2im/issues/3	|	No license provided in public repository	|	Legalese	|	additional link	|
+154	|	https://github.com/cometchat-pro/react-native-chat-app/issues/51	|	No license provided in public repository	|	Legalese	|	additional link	|
+155	|	https://github.com/MRGRD56/ConsolePassword/issues/1	|	No license provided in public repository	|	Legalese	|	additional link	|
+156	|	https://github.com/OmarEmaraDev/gtk-text-editor/issues/11	|	No license provided in public repository	|	Legalese	|	additional link	|
+157	|	https://github.com/censorship-no/ceno-website/issues/1	|	No license provided in public repository	|	Legalese	|		|
+158	|	https://github.com/adamian98/pulse/issues/6	|	No license provided in public repository	|	Legalese	|	additional link	|
 159	|	https://github.com/gratipay/gratipay.com/issues/28	|	No opt-in or no option allowed	|	Source code	|		|
 160	|	https://github.com/nojoegopotato/uBlock-issues-with-yahoo-mail/issues/1	|	No opt-in or no option allowed	|	UI	|		|
 161	|	https://github.com/therootcompany/acme.js/issues/2	|	No opt-in or no option allowed	|	Source code	|		|
@@ -207,42 +207,42 @@
 205	|	https://github.com/MTJailed/C-Programming-Books/issues/1	|	Plagiarism	|	Database/ Documents	|		|
 206	|	https://github.com/mastodon/mastodon/issues/1105	|	Plagiarism	|	Project	|		|
 207	|	https://github.com/apache/incubator-nuttx/pull/3259	|	Plagiarism	|	Source code	|		|
-208	|	https://github.com/akonwi/git-plus/issues/611	|	Privacy Violations	|	Source code	|		|
-209	|	https://github.com/com-lihaoyi/Ammonite/issues/607	|	Privacy Violations	|	Configuration file	|		|
-210	|	https://github.com/IonicaBizau/Elastic-and-Inelastic-Collisions/issues/1	|	Privacy Violations	|	Source code	|		|
-211	|	https://github.com/exelban/stats/issues/714	|	Privacy Violations	|	UI	|		|
-212	|	https://github.com/Homebrew/homebrew-cask/issues/104772	|	Privacy Violations	|	Source code	|		|
-213	|	https://github.com/dzone/osqa/pull/84	|	Privacy Violations	|	Source code	|		|
-214	|	https://github.com/Xuphey/smt2/issues/39	|	Privacy Violations	|	Software feature	|		|
-215	|	https://github.com/suttacentral/suttacentral/issues/1613	|	Privacy Violations	|	API/Library/Add-on	|		|
-216	|	https://github.com/netlify/cli/issues/739	|	Privacy Violations	|	Source code	|		|
-217	|	https://github.com/netlify/cli/issues/737	|	Privacy Violations	|	Configuration file	|		|
-218	|	https://github.com/hensm/disable_tab_detach/issues/3	|	Privacy Violations	|	API/Library/Add-on	|		|
-219	|	https://github.com/home-assistant/home-assistant.io/issues/18753	|	Privacy Violations	|	Source code	|		|
-220	|	https://github.com/mimblewimble/site/issues/191	|	Privacy Violations	|	API/Library/Add-on	|		|
-221	|	https://github.com/privacytools/privacytools.io/issues/374	|	Privacy Violations	|	API/Library/Add-on	|		|
-222	|	https://github.com/rdmenezes/synecdoche/issues/9	|	Privacy Violations	|	API/Library/Add-on	|		|
-223	|	https://github.com/bitwarden/desktop/issues/552	|	Privacy Violations	|	Software feature	|		|
-224	|	https://github.com/caprover/caprover/issues/553	|	Privacy Violations	|	API/Library/Add-on	|		|
-225	|	https://github.com/atom/atom/issues/20182	|	Privacy Violations	|	Source code	|		|
-226	|	https://github.com/pixelfed/pixelfed/issues/1140	|	Privacy Violations	|	API/Library/Add-on	|		|
-227	|	https://github.com/textbrowser/dooble/issues/23	|	Privacy Violations	|	Source code	|		|
-228	|	https://github.com/manojVivek/medium-unlimited/issues/32	|	Privacy Violations	|	Source code	|		|
-229	|	https://github.com/mobbler/mobbler/issues/262	|	Privacy Violations	|	Software feature	|		|
-230	|	https://github.com/katzwebservices/Contact-Form-7-Newsletter/issues/79	|	Privacy Violations	|	UI	|		|
-231	|	https://github.com/GoteoFoundation/goteo/issues/151	|	Privacy Violations	|	API/Library/Add-on	|		|
-232	|	https://github.com/arcticicestudio/nord-docs/issues/195	|	Privacy Violations	|	API/Library/Add-on	|		|
-233	|	https://github.com/joshbalfour/disable-scroll-jacking/issues/102	|	Privacy Violations	|	Source code	|		|
-234	|	https://github.com/balena-io/etcher/issues/2977	|	Privacy Violations	|	UI	|		|
-235	|	https://github.com/mozilla/pdf.js/issues/7699	|	Privacy Violations	|	UI	|		|
-236	|	https://github.com/less/less.js/issues/3355	|	Privacy Violations	|	Website	|		|
-237	|	https://github.com/balena-io/etcher/issues/2057	|	Privacy Violations	|	API/Library/Add-on	|		|
-238	|	https://github.com/balena-io/etcher/issues/1718	|	Privacy Violations	|	Source code	|		|
-239	|	https://github.com/atom/metrics/pull/54	|	Privacy Violations	|	UI	|		|
-240	|	https://github.com/Curvytron/curvytron/pull/148	|	Privacy violations	|	Software feature	|		|
-241	|	https://github.com/dotnet/sdk/issues/10009	|	Privacy violations	|	Configuration file	|		|
-242	|	https://github.com/guardians-of-life/fairy-tale-artificial-general-intelligence-solutions/issues/51	|	Privacy violations	|	Source code	|		|
-243	|	https://github.com/JacksonKearl/testissues/issues/738	|	Privacy violations	|	Software feature	|		|
+208	|	https://github.com/akonwi/git-plus/issues/611	|	Privacy Violation	|	Source code	|		|
+209	|	https://github.com/com-lihaoyi/Ammonite/issues/607	|	Privacy Violation	|	Configuration file	|		|
+210	|	https://github.com/IonicaBizau/Elastic-and-Inelastic-Collisions/issues/1	|	Privacy Violation	|	Source code	|		|
+211	|	https://github.com/exelban/stats/issues/714	|	Privacy Violation	|	UI	|		|
+212	|	https://github.com/Homebrew/homebrew-cask/issues/104772	|	Privacy Violation	|	Source code	|		|
+213	|	https://github.com/dzone/osqa/pull/84	|	Privacy Violation	|	Source code	|		|
+214	|	https://github.com/Xuphey/smt2/issues/39	|	Privacy Violation	|	Software feature	|		|
+215	|	https://github.com/suttacentral/suttacentral/issues/1613	|	Privacy Violation	|	API/Library/Add-on	|		|
+216	|	https://github.com/netlify/cli/issues/739	|	Privacy Violation	|	Source code	|		|
+217	|	https://github.com/netlify/cli/issues/737	|	Privacy Violation	|	Configuration file	|		|
+218	|	https://github.com/hensm/disable_tab_detach/issues/3	|	Privacy Violation	|	API/Library/Add-on	|		|
+219	|	https://github.com/home-assistant/home-assistant.io/issues/18753	|	Privacy Violation	|	Source code	|		|
+220	|	https://github.com/mimblewimble/site/issues/191	|	Privacy Violation	|	API/Library/Add-on	|		|
+221	|	https://github.com/privacytools/privacytools.io/issues/374	|	Privacy Violation	|	API/Library/Add-on	|		|
+222	|	https://github.com/rdmenezes/synecdoche/issues/9	|	Privacy Violation	|	API/Library/Add-on	|		|
+223	|	https://github.com/bitwarden/desktop/issues/552	|	Privacy Violation	|	Software feature	|		|
+224	|	https://github.com/caprover/caprover/issues/553	|	Privacy Violation	|	API/Library/Add-on	|		|
+225	|	https://github.com/atom/atom/issues/20182	|	Privacy Violation	|	Source code	|		|
+226	|	https://github.com/pixelfed/pixelfed/issues/1140	|	Privacy Violation	|	API/Library/Add-on	|		|
+227	|	https://github.com/textbrowser/dooble/issues/23	|	Privacy Violation	|	Source code	|		|
+228	|	https://github.com/manojVivek/medium-unlimited/issues/32	|	Privacy Violation	|	Source code	|		|
+229	|	https://github.com/mobbler/mobbler/issues/262	|	Privacy Violation	|	Software feature	|		|
+230	|	https://github.com/katzwebservices/Contact-Form-7-Newsletter/issues/79	|	Privacy Violation	|	UI	|		|
+231	|	https://github.com/GoteoFoundation/goteo/issues/151	|	Privacy Violation	|	API/Library/Add-on	|		|
+232	|	https://github.com/arcticicestudio/nord-docs/issues/195	|	Privacy Violation	|	API/Library/Add-on	|		|
+233	|	https://github.com/joshbalfour/disable-scroll-jacking/issues/102	|	Privacy Violation	|	Source code	|		|
+234	|	https://github.com/balena-io/etcher/issues/2977	|	Privacy Violation	|	UI	|		|
+235	|	https://github.com/mozilla/pdf.js/issues/7699	|	Privacy Violation	|	UI	|		|
+236	|	https://github.com/less/less.js/issues/3355	|	Privacy Violation	|	Website	|		|
+237	|	https://github.com/balena-io/etcher/issues/2057	|	Privacy Violation	|	API/Library/Add-on	|		|
+238	|	https://github.com/balena-io/etcher/issues/1718	|	Privacy Violation	|	Source code	|		|
+239	|	https://github.com/atom/metrics/pull/54	|	Privacy Violation	|	UI	|		|
+240	|	https://github.com/Curvytron/curvytron/pull/148	|	Privacy Violation	|	Software feature	|		|
+241	|	https://github.com/dotnet/sdk/issues/10009	|	Privacy Violation	|	Configuration file	|		|
+242	|	https://github.com/guardians-of-life/fairy-tale-artificial-general-intelligence-solutions/issues/51	|	Privacy Violation	|	Source code	|		|
+243	|	https://github.com/JacksonKearl/testissues/issues/738	|	Privacy Violation	|	Software feature	|		|
 244	|	https://github.com/eslint/eslint/pull/15102	|	Self-promotion	|	PR/Issue comments	|		|
 245	|	https://github.com/oceanbase/oceanbase/issues/422	|	Self-promotion	|	PR/Issue comments	|		|
 246	|	https://github.com/brainflow-dev/brainflow/issues/246	|	Self-promotion	|	PR/Issue comments	|		|
@@ -289,30 +289,30 @@
 287	|	https://github.com/jmollan/support-tools/issues/58	|	Unmaintained project with paid service	|	Release history	|		|
 288	|	https://github.com/Krizzel87/Oledterm_SH1106/issues/1	|	Unmaintained project with paid service	|	Release history	|		|
 289	|	https://github.com/Mach5/supersonic/issues/88	|	Unmaintained project with paid service	|	Release history	|		|
-290	|	https://github.com/jspenguin2017/Snippets/issues/3	|	Vulnerable API	|	API/Library/Add-on	|		|
-291	|	https://github.com/flyingsaucerproject/flyingsaucer/pull/123	|	Vulnerable API	|	API/Library/Add-on	|		|
-292	|	https://github.com/cheat-engine/cheat-engine/issues/816	|	Vulnerable API	|	API/Library/Add-on	|		|
-293	|	https://github.com/openSUSE/openSUSE-docs-revamped-temp/issues/17	|	Vulnerable API	|	API/Library/Add-on	|		|
-294	|	https://github.com/wifiphisher/wifiphisher/issues/519	|	Vulnerable/Malicious code	|	Source code	|		|
-295	|	https://github.com/cpriest/SnapLinksPlus/issues/281	|	Vulnerable/Malicious code	|	Source code	|		|
-296	|	https://github.com/qbittorrent/qBittorrent/issues/3453	|	Vulnerable/Malicious code	|	Source code	|		|
-297	|	https://github.com/brave/brave-core/pull/5759	|	Vulnerable/Malicious code	|	Source code	|		|
-298	|	https://github.com/x64dbg/x64dbg/issues/391	|	Vulnerable/Malicious code	|	Source code	|		|
-299	|	https://github.com/Crypto-Loot/cryptoloot/issues/6	|	Vulnerable/Malicious code	|	Source code	|		|
-300	|	https://github.com/sahilchaddha/rudyjs/issues/1	|	Vulnerable/Malicious code	|	Source code	|		|
-301	|	https://github.com/NullVoxPopuli/aeonvera/issues/1212	|	Vulnerable/Malicious code	|	Source code	|		|
-302	|	https://github.com/ITEA3-Measure/MeasurePlatform/issues/6	|	Vulnerable/Malicious code	|	Source code	|		|
-303	|	https://github.com/illacceptanything/illacceptanything/pull/330	|	Vulnerable/Malicious code	|	Source code	|		|
-304	|	https://github.com/tinymce/tinymce/issues/3177	|	Vulnerable/Malicious code	|	Source code	|		|
-305	|	https://github.com/trustwallet/assets/pull/4531	|	Vulnerable/Malicious code	|	Source code	|		|
-306	|	https://github.com/ColorlibHQ/AdminLTE/issues/598	|	Vulnerable/Malicious code	|	Source code	|		|
-307	|	https://github.com/mitre/multiscanner/issues/159	|	Vulnerable/Malicious code	|	Source code	|		|
-308	|	https://github.com/joomla/joomla-cms/issues/1658	|	Vulnerable/Malicious code	|	Source code	|		|
-309	|	https://github.com/TeamWin/Team-Win-Recovery-Project/issues/276	|	Vulnerable/Malicious code	|	Source code	|		|
-310	|	https://github.com/mattermost/mattermost-server/issues/5935	|	Vulnerable/Malicious code	|	Source code	|		|
-311	|	https://github.com/gilbertchen/duplicacy/issues/137	|	Vulnerable/Malicious code	|	Source code	|		|
-312	|	https://github.com/soham96/AlpacaBot/pull/3	|	Vulnerable/Malicious code	|	Source code	|		|
-313	|	https://github.com/Hylozoic/hylo-evo/issues/940	|	Vulnerable/Malicious code	|	Source code	|		|
-314	|	https://github.com/vsjha18/nsetools/issues/23	|	Vulnerable/Malicious code	|	Source code	|		|
-315	|	https://github.com/Theano/Theano/pull/6	|	Vulnerable/Malicious code	|	PR/Issue reviews	|		|
-316	|	https://github.com/gantoreno/bango/issues/1	|	Vulnerable/Malicious code	|	Release history	|		|
+290	|	https://github.com/jspenguin2017/Snippets/issues/3	|	Vulnerable code/API	|	API/Library/Add-on	|		|
+291	|	https://github.com/flyingsaucerproject/flyingsaucer/pull/123	|	Vulnerable code/API	|	API/Library/Add-on	|		|
+292	|	https://github.com/cheat-engine/cheat-engine/issues/816	|	Vulnerable code/API	|	API/Library/Add-on	|		|
+293	|	https://github.com/openSUSE/openSUSE-docs-revamped-temp/issues/17	|	Vulnerable code/API	|	API/Library/Add-on	|		|
+294	|	https://github.com/wifiphisher/wifiphisher/issues/519	|	Vulnerable code/API	|	Source code	|		|
+295	|	https://github.com/cpriest/SnapLinksPlus/issues/281	|	Vulnerable code/API	|	Source code	|		|
+296	|	https://github.com/qbittorrent/qBittorrent/issues/3453	|	Vulnerable code/API	|	Source code	|		|
+297	|	https://github.com/brave/brave-core/pull/5759	|	Vulnerable code/API	|	Source code	|		|
+298	|	https://github.com/x64dbg/x64dbg/issues/391	|	Vulnerable code/API	|	Source code	|		|
+299	|	https://github.com/Crypto-Loot/cryptoloot/issues/6	|	Vulnerable code/API	|	Source code	|		|
+300	|	https://github.com/sahilchaddha/rudyjs/issues/1	|	Vulnerable code/API	|	Source code	|		|
+301	|	https://github.com/NullVoxPopuli/aeonvera/issues/1212	|	Vulnerable code/API	|	Source code	|		|
+302	|	https://github.com/ITEA3-Measure/MeasurePlatform/issues/6	|	Vulnerable code/API	|	Source code	|		|
+303	|	https://github.com/illacceptanything/illacceptanything/pull/330	|	Vulnerable code/API	|	Source code	|		|
+304	|	https://github.com/tinymce/tinymce/issues/3177	|	Vulnerable code/API	|	Source code	|		|
+305	|	https://github.com/trustwallet/assets/pull/4531	|	Vulnerable code/API	|	Source code	|		|
+306	|	https://github.com/ColorlibHQ/AdminLTE/issues/598	|	Vulnerable code/API	|	Source code	|		|
+307	|	https://github.com/mitre/multiscanner/issues/159	|	Vulnerable code/API	|	Source code	|		|
+308	|	https://github.com/joomla/joomla-cms/issues/1658	|	Vulnerable code/API	|	Source code	|		|
+309	|	https://github.com/TeamWin/Team-Win-Recovery-Project/issues/276	|	Vulnerable code/API	|	Source code	|		|
+310	|	https://github.com/mattermost/mattermost-server/issues/5935	|	Vulnerable code/API	|	Source code	|		|
+311	|	https://github.com/gilbertchen/duplicacy/issues/137	|	Vulnerable code/API	|	Source code	|		|
+312	|	https://github.com/soham96/AlpacaBot/pull/3	|	Vulnerable code/API	|	Source code	|		|
+313	|	https://github.com/Hylozoic/hylo-evo/issues/940	|	Vulnerable code/API	|	Source code	|		|
+314	|	https://github.com/vsjha18/nsetools/issues/23	|	Vulnerable code/API	|	Source code	|		|
+315	|	https://github.com/Theano/Theano/pull/6	|	Vulnerable code/API	|	PR/Issue reviews	|		|
+316	|	https://github.com/gantoreno/bango/issues/1	|	Vulnerable code/API	|	Release history	|		|
