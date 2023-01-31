@@ -12,7 +12,7 @@ Etor is in Java, and Python. You can find the source code under "src" directory 
   For "Unmaintained-Android-Project-with-PaidService",
   >[E.g.,  ./Etor.sh ghp_xxx 1 https://github.com/EtorChecker/Etor null null]
     
-  For "No-License-Provided-for-Public-Repository",
+  For "No-License-Provided-in-Public-Repository",
   >[E.g.,  ./Etor.sh ghp_xxx 2 https://github.com/EtorChecker/Etor null null]
   
   For "Uninformed-License-Change",
