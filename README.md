@@ -37,8 +37,8 @@ The replication package is structured as follows:
     |--- lib/                    List of dependencies.   
     |--- src/                    Implementation including libraries and source code
     |--- tool/                   The scripts
-    |--- LicenseList.txt         The list of license
     |--- LICENSE                 Repo's license
+    |--- LicenseList.txt         The list of license    
     |--- OntologyNew.PNG         Image for ontology used in Etor
     |--- Supplementary.pdf       Document which includes SWRL rules and keywords used in our approach
 ```
