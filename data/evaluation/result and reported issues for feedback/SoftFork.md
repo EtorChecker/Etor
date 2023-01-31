@@ -1,4 +1,4 @@
-|S/N|Repo 1|Repo 2|Remarks|									
+|S/N|Repo 1|Repo 2|Remarks/ Feedback|									
 |:-----:|:-------:|:-------:|:-------:|
 |	1	|	https://github.com/namndwebdev/tang-crush	|	https://github.com/quocdinhit97/YTB-youtube-2021-totinh-part-2	|		|
 |	2	|	https://github.com/namndwebdev/tang-crush	|	https://github.com/Canduy/crush	|		|
