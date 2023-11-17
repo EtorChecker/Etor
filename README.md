@@ -48,3 +48,6 @@ The replication package is structured as follows:
 <img src="https://github.com/EtorChecker/Etor/blob/main/OntologyNew.PNG" width="600" height="400">
 
 [This is an external link to download Etor.jar](https://www.dropbox.com/s/ul5b6k8sdqxlpcd/Etor.jar?dl=0) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8153527.svg)](https://doi.org/10.5281/zenodo.8153527)
+
+# Paper
+Please refer to the author's homepage to check the camera-ready paper: [Link](https://hsumyatwin.github.io/)
